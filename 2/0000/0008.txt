@@ -1,48 +1,48 @@
-バトルビデオ
-バトルサブウェイ
-ランダムマッチ
-やめる
-もどる
-じぶんのきろく
-だれかのきろく
-きろくをけす
-\xf000봂\x0000\xf000Ā\x0001\x0000　のきろく
-あき
+VIDEOS DE BATALLAS
+METRO DE BATALLA
+COMBATE ALEATORIO
+CANCELAR
+QUITAR
+MIS VIDEOS
+OTROS VIDEOS
+BORRAR VIDEOS
+\xf000봂\x0000\xf000Ā\x0001\x0000　VIDEOS
+VACIO
 \xf000ȃ\x0001\x0000
-せんめ
-\xf000봂\x0000ビデオナンバー：\xf000ȁ\x0001\x0000－\xf000Ȅ\x0001\x0001－\xf000Ȅ\x0001\x0002
-\xf000봂\x0000ビデオナンバー：\xf000ȁ\x0001\x0000－\xf000Ȅ\x0001\x0001－\xf000Ȅ\x0001\x0002★
-\xf000봂\x0000\xf000Ā\x0001\x0000　の　プロフィール
-ねんれい
-\xf000봂\x0000\xf000ȁ\x0001\x0000がつうまれ
-\xf000봂\x0000すんでいるばしょ
-\xf000봂\x0000じこしょうかい
-データ
-プロフィール
+Batalla
+\xf000봂\x0000VIDEO Nº：\xf000ȁ\x0001\x0000－\xf000Ȅ\x0001\x0001－\xf000Ȅ\x0001\x0002
+\xf000봂\x0000VIDEO Nº：\xf000ȁ\x0001\x0000－\xf000Ȅ\x0001\x0001－\xf000Ȅ\x0001\x0002★
+\xf000봂\x0000\xf000Ā\x0001\x0000　TU PERFIL
+EDAD
+\xf000봂\x0000\xf000ȁ\x0001\x0000NACIDO EN
+\xf000봂\x0000PROCEDENCIA
+\xf000봂\x0000CITA DEL ENTRENADOR
+DATOS
+PERFIL
 
-みとうろく
+NINGUNO
 \xf000Ĥ\x0001\x0000
 \xf000ĥ\x0001\x0000
 \xf000Ĝ\x0001\x0000　\xf000Ĝ\x0001\x0001
-\xf000Ā\x0001\x0000　のきろく
-じぶんのきろくをけす
-だれかのきろくをけす
-あき
+\xf000Ā\x0001\x0000　MI VIDEO
+BORRAR MI VIDEO
+BORRAR OTROS VIDEOS
+OTOÑO
 \xf000Ā\x0001\x0000　のきろくをけす
-ランキングでさがす
-データをおくる
-さいしん３０けん
-くわしくさがす
-ナンバーでさがす
-しせつでさがす
-ポケモンでさがす
-おなじちいきでさがす
-つうしんたいせん
-バトルサブウェイ
-しゃしんをおくる
-しゃしんをみる
-おくる
-みたいポケモンを　えらんでください
+BUSCAR EN RANKING
+ENVIAR DATOS
+NUEVOS 30
+BUSQUEDA
+BUSQUEDA POR Nº
+BUSQUEDA POR HABILIDAD
+BUSQUEDA POR POKÉMON
+BUSQUEDA POR LOCALIZACION
+CONEXION DE BATALLAS 
+METRO DE BATALLA
+ENVIAR FOTO
+VER FOTOS
+ENVIAR
+Por favor elige el Pokémon que quieres ver.
 \xf000Ā\x0001\x0000　の　しゃしん\xfffe\xf000Ĝ\x0001\x0001
 \xf000Ā\x0001\x0000\xfffe\xf000Ĝ\x0001\x0001
 しゃしん
@@ -226,7 +226,7 @@
 ２１：バトルルーレット\xfffe　　　シングル
 ２２：バトルルーレット\xfffe　　　ダブル
 ２３：バトルルーレット\xfffe　　　マルチ
-\xf000봂\x0000TOUCH HERE!
+\xf000봂\x0000¡TOCAR AQUI!
 Ｗｉ－Ｆｉコネクション　から\xfffeせつだんしても　よろしいですか？
 　
 にんしょうエラーで\xfffeせつぞく　できませんでした
