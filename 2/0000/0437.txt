@@ -27,8 +27,8 @@ Misuri
 Montana
 Nebraska
 Nevada
-New Hampshire
-nueva Jersey
+Nueva Hampshire
+Nueva Jersey
 Nuevo México
 Nueva York
 Carolina del Norte
@@ -37,7 +37,7 @@ Ohio
 Oklahoma
 Oregón
 Pensilvania
-Rhode Island
+Rhod Island
 Carolina del Sur
 Dakota del Sur
 Tennessee
