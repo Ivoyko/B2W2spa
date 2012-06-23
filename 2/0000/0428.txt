@@ -1,13 +1,13 @@
-なし
-ひがしイングランド
-イースト・ミッドランド
-グレーター・ロンドン
-ほくとうイングランド
-ほくせいイングランド
-きたアイルランド
-スコットランド
-なんとうイングランド
-なんせいイングランド
-ウェールズ
-ウェスト・ミッドランド
-ヨークシャー・ハンバーサイド
+Ninguno
+Este de Inglaterra
+East Midlands
+Gran Londres
+Noreste de Inglaterra
+Noroeste de Inglaterra
+Irlanda del Norte
+Escocia
+Sureste de Inglaterra
+Suroeste de Inglaterra
+Gales
+West Midlands
+Yorkshire y Humber
