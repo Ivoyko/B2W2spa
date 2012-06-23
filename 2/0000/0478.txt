@@ -1,12 +1,12 @@
-イッシュずかん
-ぜんこくずかん
-みつけたかず
-つかまえたかず
-けんさくけっか
+POKÉDEX DE UNOVA
+POKÉDEX NACIONAL
+VISTOS
+CONSEGUIDOS
+RESULTADO DE LA BUSQUEDA
 \xf000Ȃ\x0001\x0000
 \xf000ā\x0001\x0000
-？？？？？
+?????
 \xf000Ȃ\x0001\x0000
-ぜんこく
+Todo el pais.
 イッシュ
-せいそくち
+Habitat
