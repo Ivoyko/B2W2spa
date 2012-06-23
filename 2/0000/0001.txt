@@ -1,12 +1,12 @@
 ＨＰ／ＰＰ
-かいふく
-じょうたい
-かいふく
+Recuperación
+Estado
+Recuperación
 ＨＰ／ＰＰ
-かいふく
-せんとうよう
-ボール
-さいごにつかったどうぐ
+Recuperación
+Parte superior
+Pelota
+Ultima herramienta utilizada
 \xf000ĉ\x0001\x0000
 ×\xf000Ȃ\x0001\x0000
 \xf000ĉ\x0001\x0000
@@ -19,21 +19,21 @@
 ×\xf000Ȃ\x0001\x0000
 \xf000ĉ\x0001\x0000
 ×\xf000Ȃ\x0001\x0000
-つぎへ
+Proximo
 ＨＰ／ＰＰ
-かいふく
-じょうたい
-かいふく
-ボール
-せんとうよう
+Recuperación
+Estado
+Recuperación
+Pelota
+Parte superior
 ／
 \xf000Ȁ\x0001\x0000
 \xf000Ȁ\x0001\x0000
-つかう
+Gasto
 \xf000ĉ\x0001\x0000
 ×\xf000Ȃ\x0001\x0000
 つかっても　こうかが　ないよ
-しろいきりに　つつまれた！\xfffe
+¡Envuelto de nuebla blanca！\xfffe
 \xf000Ă\x0001\x0000は\xfffeはりきっている
 \xf000Ă\x0001\x0000の\xfffeこうげきが　あがった！
 \xf000Ă\x0001\x0000の\xfffeとくこうが　あがった！
