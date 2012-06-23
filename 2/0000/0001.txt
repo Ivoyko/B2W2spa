@@ -1,31 +1,56 @@
-ＨＰ／ＰＰ
-Recuperación
+HP/PP
+Restaurar
 Estado
-Recuperación
-ＨＰ／ＰＰ
-Recuperación
-Parte superior
-Pelota
-Ultima herramienta utilizada
-\xf000ĉ\x0001\x0000
-×\xf000Ȃ\x0001\x0000
-\xf000ĉ\x0001\x0000
-×\xf000Ȃ\x0001\x0000
-\xf000ĉ\x0001\x0000
-×\xf000Ȃ\x0001\x0000
-\xf000ĉ\x0001\x0000
-×\xf000Ȃ\x0001\x0000
-\xf000ĉ\x0001\x0000
-×\xf000Ȃ\x0001\x0000
-\xf000ĉ\x0001\x0000
-×\xf000Ȃ\x0001\x0000
+Sanadores
+HP/PP
+Restaurar
+Objetos para batalla
+Poké Balls
+Ultimo objeto usado
+\xf000c\x0001\x0000
+×\xf000?\x0001\x0000
+\xf000c\x0001\x0000
+×\xf000?\x0001\x0000
+\xf000c\x0001\x0000
+×\xf000?\x0001\x0000
+\xf000c\x0001\x0000
+×\xf000?\x0001\x0000
+\xf000c\x0001\x0000
+×\xf000?\x0001\x0000
+\xf000c\x0001\x0000
+×\xf000?\x0001\x0000
 Proximo
-ＨＰ／ＰＰ
-Recuperación
-Estado
-Recuperación
-Pelota
-Parte superior
+HP/PP
+Restaurar
+Status
+Sanadores
+Poké Balls
+Objetos para batalla
+/
+\xf000?\x0001\x0000
+\xf000?\x0001\x0000
+Usar
+\xf000c\x0001\x0000
+×\xf000?\x0001\x0000
+¡No es buen momento para usar eso!
+¡Esta atrapado en niebla blanca!\xfffe
+\xf000A\x0001\x0000?\xfffe¡Esta muy emocionado!
+\xf000A\x0001\x0000?\xfffe¡Ataque subio!
+\xf000A\x0001\x0000?\xfffe¡Ataque especial subio!
+\xf000A\x0001\x0000?\xfffe¡Velocidad subio!
+\xf000A\x0001\x0000?\xfffe¡Defensa especial subio!
+\xf000A\x0001\x0000?\xfffe¡Defensa subio!
+\xf000A\x0001\x0000?\xfffe¡Precision subio!
+\xf000c\x0001\x0000?\xfffe¡fue usado!
+¡No! hay 2 pokemon\xfffe¡Hace que sea imposible apuntar...!
+¡No queda espacio libre en el PC!
+\xf000c\x0001\x0001Su efecto prevee el uso del objeto\xfffe\xf000A\x0001\x0000!
+¡Esto no funciona! Es imposible apuntar a un Pokémon que no esta a la vista!
+¡Esto no funciona! Es imposible apuntar a un Pokémon que no esta a la vista!
+No tienes sufiente energia
+Te acordastes de las palabras de Juniper...\xfffe\xf000?\x0000¡Hay un lugar y un momento para todo! Y no es ahora.
+¡No puedes tirar la Pokéball\xfffesin concentrarte!
+ゲーチスの　つくった　そうちのせいで\xfffeボールは　つかえない！！
 ／
 \xf000Ȁ\x0001\x0000
 \xf000Ȁ\x0001\x0000
