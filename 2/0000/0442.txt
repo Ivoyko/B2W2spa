@@ -1,20 +1,20 @@
 
-うまれてから　しばらくの　あいだは\xfffeせなかの　タネから　えいようを\xfffeもらって　おおきく　そだつ。
-せなかの　つぼみが　ふくらみだすと\xfffeあまい　においが　ただよいはじめる。\xfffeたいりんの　はなが　さく　まえぶれ。
-あめの　ふった　よくじつは　せなかの\xfffeはなの　かおりが　つよまる。かおりに\xfffeさそわれ　ポケモンが　あつまる。
-ヒトカゲの　しっぽの　ほのおは\xfffeいのちの　ともしび。げんきな　ときは\xfffeほのおも　ちからづよく　もえあがる。
-リザードが　くらす　いわやまを\xfffeよなかに　みあげると　しっぽの\xfffeほのおが　ほしのように　みえる。
-くるしい　たたかいを　けいけんした\xfffeリザードンほど　ほのおの　おんどが\xfffeたかくなると　いわれている。
-こうらに　とじこもり　みを　まもる。\xfffeあいての　すきを　みのがさず\xfffeみずを　ふきだして　はんげきする。
-いちまんねんの　じゅみょうを　もつと\xfffeいわれている。ふさふさの　しっぽは\xfffeながいきの　シンボルとして　にんき。
-こうらの　ロケットほうから　ふきだす\xfffeすいりゅうは　ぶあつい　てっぱんも\xfffeいっぱつで　つらぬく　はかいりょく。
-あかい　しょっかくから　においを\xfffeだして　てきを　おいはらう。\xfffeだっぴを　くりかえし　おおきくなる。
-こうてつのように　かたい　カラで\xfffeやわらかい　なかみを　まもっている。\xfffeしんかするまで　じっと　たえている。
-はなの　ミツが　だいこうぶつ。\xfffeわずかな　かふんで　はなばたけの\xfffeばしょを　さがしだすことが　できる。
-まいにち　じぶんと　おなじ　おもさの\xfffeはっぱを　たべる。あたまの　ハリで\xfffeおそってきた　てきを　げきたい。
-てんてきに　みつからないように\xfffeはっぱの　うらや　えだの　すきまに\xfffeかくれて　しんかの　ときを　まつ。
-こうそくで　とびまわり　どくバリで\xfffeこうげきしたあと　すぐに　とびさる\xfffeせんぽうが　とくいわざだ。
-たたかいを　このまない　おとなしい\xfffeせいかくだが　へたに　てを　だすと\xfffeきょうれつに　はんげきされるぞ。
+Durante algún tiempo después de su nacimiento, \ xfffcrece mediante la obtención de alimento de \ xfffelas semillas en su parte posterior.
+Cuando el brote comienza en su espalda\xfffetransmite un dulce aroma que\xfffeindica que la flor va florecer.
+Despues de un dia lluvioso, la flor en\xfffsu espalda huele mas fuerte. El\xfffeolor atrae otros Pokémon.
+El fuego de la punta de su cola\xfffes simbolo de su vida. Si esta sano,\xfffesu cola ardera intensamente.
+En las montañas rocosas donde\xfffeCHARMELEON vive, sus fieras\xfffecolas brillan en la noche como estrellas.
+Se dice que el fuego de CHARIZARD\xfffearde con mas intensidad si\xfffexperimentan duros comabates.
+Se esconde en su concha,\xffeluego contratacan con su chorro\xfffede agua en cuanto tiene oportunidad.
+Se dicen que pueden vivir 10,000 años.\xfffeSu cola peluda es como un\xfffesimbolo de longelividad.
+Sus chorros de aguan son disparados\xfffedesde sus cañones que estan en su concha\xfffepuede perforar hasta el acero.
+Desprende un error por su antena\xffferoja para repeler a los enemigos. Su\xfffemuda crece varias veces.
+Su concha de acero protege su\xfffetierno cuerpo. Soporta en silencios\xfffelas dificultades a la espera de evolucionar.
+Ama la miel de las flores y\xfffees capaz de localizar las flores que\xfffehposeen pequeñas cantidades de polen.
+Se come su peso en hojas en un\xfffedia. Se enfrenta a sus oponentes con\xfffel pincho de su cabeza.
+Mientras espera su evolucion, Se\xfffese esconde de sus depredadores\xfffeen los rincones de las ramas.
+Su mejor ataque implica volar\xfffealrededor a gran velocidad, golpeando con sus\xfffeaguijones venenosos, antes de descender.
+Es docil y prefiere esquivar el\xfffeconflicto. Si es molestado, sin embargo,\xfffepuede contratacar ferozmente.
 ひろい　なわばりを　とびまわりながら\xfffeえものを　さがす。はったつした\xfffeあしの　ツメで　えものを　しとめる。
 ピジョットが　ちからいっぱい\xfffeはばたくと　たいぼくも　しなるほどの\xfffeきょうふうを　まきおこす。
 １にちじゅう　エサを　さがしている。\xfffeキバは　しぬまで　のびつづけるので\xfffeかたいものを　かじって　けずる。
@@ -727,7 +727,7 @@
 うしなった　からだを　しんじつと\xfffeりそうで　うめてくれる　えいゆうを\xfffeまつ　こおりの　でんせつポケモン。
 かくごを　きめることで　ぜんしんに\xfffeちからが　みなぎって　すばやくなり\xfffeとびはねると　ざんぞうが　みえる。
 メロエッタの　かなでる　せんりつは\xfffeまわりの　ポケモンを　よろこばせたり\xfffeかなしませるほどの　パワーがある。
-３おくねんまえに　いた　ポケモン。\xfffeプラズマだんに　かいぞう　され\xfffeせなかに　ほうだいを　つけられた。
-３おくねんまえに　いた　ポケモン。\xfffeプラズマだんに　かいぞう　され\xfffeせなかに　ほうだいを　つけられた。
-３おくねんまえに　いた　ポケモン。\xfffeプラズマだんに　かいぞう　され\xfffeせなかに　ほうだいを　つけられた。
-３おくねんまえに　いた　ポケモン。\xfffeプラズマだんに　かいぞう　され\xfffeせなかに　ほうだいを　つけられた。
+Hace más de 300 años, el era conocido\xfffecomo el mas fuerte de los cazadores.\xfffeHa sido modificado por el Equipo Plasma.
+Hace más de 300 años, el era conocido\xfffecomo el mas fuerte de los cazadores.\xfffeHa sido modificado por el Equipo Plasma.
+Hace más de 300 años, el era conocido\xfffecomo el mas fuerte de los cazadores.\xfffeHa sido modificado por el Equipo Plasma.
+Hace más de 300 años, el era conocido\xfffecomo el mas fuerte de los cazadores.\xfffeHa sido modificado por el Equipo Plasma.
