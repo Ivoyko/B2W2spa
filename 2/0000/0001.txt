@@ -33,7 +33,7 @@ Gasto
 \xf000ĉ\x0001\x0000
 ×\xf000Ȃ\x0001\x0000
 つかっても　こうかが　ないよ
-¡Envuelto de nuebla blanca！\xfffe
+¡Envuelto de niebla blanca！\xfffe
 \xf000Ă\x0001\x0000は\xfffeはりきっている
 \xf000Ă\x0001\x0000の\xfffeこうげきが　あがった！
 \xf000Ă\x0001\x0000の\xfffeとくこうが　あがった！
