@@ -530,104 +530,104 @@ Contiene los datos del Pokéathlon con\xfffeel número de victorias en Metegoles
 Contiene los datos del Pokéathlon con\xfffeel número de premios individuales.
 Contiene los datos del Pokéathlon\xfffecon el número de veces que has\xfffetocado tus Pokémon.
 Contiene los datos del Pokéathlon\xfffecon el tiempo que has pasado\xfffeen esta competición.
-A shiny green orb that is said to have\xfffea legend and has a deep connection with\xfffethe Hoenn region.
-A sturdy Capsule that can only be\xfffeopened with a special key.
-A shiny red orb that is said to have\xfffea legend and has a deep connection with\xfffethe Hoenn region.
-A shiny blue orb that is said to have\xfffea legend and has a deep connection with\xfffethe Hoenn region.
-A crystal ball that was excavated from\xfffethe ground. A very beautiful stone that\xfffeis covered with bits of rock and earth.
-A mysterious scale that evolves\xfffecertain Pokémon.\xfffeIt shines in rainbow colors.
-A mysterious evolutionary lump. When\xfffeheld, it raises the Defense and Sp. Def\xfffeof a Pokémon that can still evolve.
-A very light stone. It reduces the\xfffeweight of a Pokémon when held.
-If the holder of this item takes damage,\xfffethe attacker will also be damaged\xfffeupon contact.
-When held by a Pokémon, the Pokémon\xfffewill float into the air. When the holder\xfffeis attacked, this item will burst.
-A card with a mysterious power. When\xfffethe holder is struck by a foe, the\xfffeattacker is removed from battle.
-Moves that would otherwise have no\xfffeeffect will land on the Pokémon that\xfffeholds it.
-A band that increases the power of\xfffebinding moves when held.
-A consumable bulb. If the holder is hit\xfffeby a Water-type move, its Sp. Atk\xfffewill rise.
-A consumable battery. If the\xfffeholder is hit by an Electric-type\xfffemove, its Attack will rise.
-If the holder is hit by an attack, it will\xfffeswitch with another Pokémon in\xfffeyour party.
-A gem with an essence of fire. When\xfffeheld, it strengthens the power of a\xfffeFire-type move only once.
-A gem with an essence of water. When\xfffeheld, it strengthens the power of a\xfffeWater-type move only once.
-A gem with an essence of electricity.\xfffeWhen held, it strengthens the power of\xfffean Electric-type move only once.
-A gem with an essence of nature. When\xfffeheld, it strengthens the power of a\xfffeGrass-type move only once.
-A gem with an essence of ice. When held,\xfffeit strengthens the power of an\xfffeIce-type move only once.
-A gem with an essence of combat. When\xfffeheld, it strengthens the power of a\xfffeFighting-type move only once.
-A gem with an essence of poison. When\xfffeheld, it strengthens the power of a\xfffePoison-type move only once.
-A gem with an essence of land. When\xfffeheld, it strengthens the power of a\xfffeGround-type move only once.
-A gem with an essence of air. When held,\xfffeit strengthens the power of a\xfffeFlying-type move only once.
-A gem with an essence of the mind. When\xfffeheld, it strengthens the power of a\xfffePsychic-type move only once.
-A gem with an insect-like essence.\xfffeWhen held, it strengthens the power of\xfffea Bug-type move only once.
-A gem with an essence of rock. When\xfffeheld, it strengthens the power of a\xfffeRock-type move only once.
-A gem with a spectral essence. When\xfffeheld, it strengthens the power of a\xfffeGhost-type move only once.
-A gem with a draconic essence. \xfffeWhen held, it strengthens the power\xfffeof a Dragon-type move only once.
-A gem with an essence of darkness.\xfffeWhen held, it strengthens the power of\xfffea Dark-type move only once.
-A gem with an essence of steel. When\xfffeheld, it strengthens the power of a\xfffeSteel-type move only once.
-A gem with an ordinary essence. When\xfffeheld, it strengthens the power of a\xfffeNormal-type move only once.
-An item for use on a Pokémon. It\xfffeslightly increases the base HP of a\xfffesingle Pokémon.
-An item for use on a Pokémon. It\xfffeslightly increases the base Attack stat\xfffeof a single Pokémon.
-An item for use on a Pokémon. It\xfffeslightly increases the base Defense\xfffestat of a single Pokémon.
-An item for use on a Pokémon. It\xfffeslightly increases the base Sp. Atk\xfffestat of a single Pokémon.
-An item for use on a Pokémon. It\xfffeslightly increases the base Sp. Def\xfffestat of a single Pokémon.
-An item for use on a Pokémon. It\xfffeslightly increases the base Speed stat\xfffeof a single Pokémon.
-Though this feather is beautiful, it's\xfffejust a regular feather and has no\xfffeeffect on Pokémon.
-A fossil of an ancient Pokémon that\xfffelived in the sea in ancient times.\xfffeIt appears to be part of its back.
-A fossil of an ancient Pokémon that\xfffeflew in the sky in ancient times.\xfffeIt appears to be part of its wing.
-A special pass to go to Liberty Garden.\xfffeBoard the ship in Castelia City.
-A mysterious orb containing the power\xfffeof the Unova region, to be used when\xfffegenerating Pass Power.
-A special Poké Ball that appears out of\xfffenowhere in a bag at the Entree Forest.\xfffeIt can catch any Pokémon.
-An item that attracts Pokémon.\xfffeUse it to flee from any battle with a\xfffewild Pokémon.
-A lovely case to store colorful Props\xfffefor your Pokémon to wear in a musical.
-A skull of a Pokémon which was said to\xfffehave braved the angry waters to fly\xfffearound the world.
-A rare mushroom which gives off a nice\xfffefragrance.\xfffeA maniac will buy it for a high price.
-A big nugget of pure gold that gives off\xfffea lustrous gleam.\xfffeA maniac will buy it for a high price.
-Very large pearls that sparkle in a\xfffepretty silver color. \xfffeA maniac will buy them for a high price.
-A shard which fell to the ground when\xfffea comet approached.\xfffeA maniac will buy it for a high price.
-A copper coin used in a civilization\xfffeabout 3,000 years ago.\xfffeA maniac will buy it for a high price.
-A silver coin used in a civilization\xfffeabout 3,000 years ago.\xfffeA maniac will buy it for a high price.
-A gold coin used in a civilization\xfffeabout 3,000 years ago.\xfffeA maniac will buy it for a high price.
-A vase made in a civilization\xfffeabout 3,000 years ago.\xfffeA maniac will buy it for a high price.
-A bracelet made in a civilization\xfffeabout 3,000 years ago.\xfffeA maniac will buy it for a high price.
-A stone figure made in a civilization\xfffeabout 3,000 years ago.\xfffeA maniac will buy it for a high price.
-A crown made in a civilization\xfffeabout 3,000 years ago.\xfffeA maniac will buy it for a high price.
-Castelia City's specialty, soft-serve\xfffeice cream. It heals all the status\xfffeproblems of a single Pokémon.
-It can be used many times to raise the\xfffecritical-hit ratio of one Pokémon. It\xfffewears off if the Pokémon is withdrawn.
-It sharply raises the Speed stat of a\xfffePokémon in battle. It wears off if\xfffethe Pokémon is withdrawn.
-It sharply raises the Sp. Atk stat of a\xfffePokémon in battle. It wears off if the\xfffePokémon is withdrawn.
-It sharply raises the Sp. Def stat of a\xfffePokémon in battle. It wears off if the\xfffePokémon is withdrawn.
-It sharply raises the Defense stat\xfffeof a Pokémon in battle. It wears off\xfffeif the Pokémon is withdrawn.
-It sharply raises the Attack stat of a\xfffePokémon in battle. It wears off if the\xfffePokémon is withdrawn.
-It sharply raises the accuracy of a\xfffePokémon in battle. It wears off if the\xfffePokémon is withdrawn.
-It drastically raises the Speed stat of\xfffea Pokémon in battle. It wears off if the\xfffePokémon is withdrawn.
-It drastically raises the Sp. Atk stat\xfffeof a Pokémon in battle. It wears off if\xfffethe Pokémon is withdrawn.
-It drastically raises the Sp. Def stat\xfffeof a Pokémon in battle. It wears off if\xfffethe Pokémon is withdrawn.
-It drastically raises the Defense stat\xfffeof a Pokémon in battle. It wears off if\xfffethe Pokémon is withdrawn.
-It drastically raises the Attack stat\xfffeof a Pokémon in battle. It wears off if\xfffethe Pokémon is withdrawn.
-It drastically raises the accuracy of a\xfffePokémon in battle. It wears off if the\xfffePokémon is withdrawn.
-It raises the Speed stat of a Pokémon\xfffein battle immensely. It wears off if the\xfffePokémon is withdrawn.
-It raises the Sp. Atk stat of a Pokémon\xfffein battle immensely. It wears off if the\xfffePokémon is withdrawn.
-It raises the Sp. Def stat of a Pokémon\xfffein battle immensely. It wears off if the\xfffePokémon is withdrawn.
-It raises the Defense stat of a Pokémon\xfffein battle immensely. It wears off if the\xfffePokémon is withdrawn.
-It raises the Attack stat of a Pokémon\xfffein battle immensely. It wears off if the\xfffePokémon is withdrawn.
-It raises the accuracy of a Pokémon in\xfffebattle immensely. It wears off if the\xfffePokémon is withdrawn.
-When used, it activates the Ability of\xfffean ally Pokémon.
-When used, it causes an ally Pokémon\xfffeto drop a held item.
-When used, it causes an ally Pokémon\xfffeto use its held item.
-When used, it restores any stat\xfffechanges of an ally Pokémon.
-It can be used many times to greatly\xffferaise a Pokémon's critical-hit ratio. It\xfffewears off if the Pokémon is withdrawn.
-Reshiram's body was destroyed and\xfffechanged into this stone. It is said to\xfffebe waiting for the emergence of a hero.
-Zekrom's body was destroyed and\xfffechanged into this stone. It is said to\xfffebe waiting for the emergence of a hero.
-The user shrouds itself in electricity\xfffeand smashes into its target.\xfffeIt also damages the user a little.
-The user attacks with a punch that can\xfffeshatter a rock. It may also lower the\xfffetarget's Defense stat.
-The user yells as if it is ranting about\xfffesomething, making the target's Sp. Atk\xfffestat decrease.
-A high-tech transceiver with a \xfffecamera function. It allows up to\xfffefour-way calls.
-A rare stone.
-An important letter which\xfffeWingull delivers.
-An important letter which\xfffeWingull delivers.
-An important letter which\xfffeWingull delivers.
-A high-tech transceiver with a\xfffecamera function. It allows up to\xfffefour-way calls.
-Records information about the\xfffemedals earned by small chance.
-An unique item that unites a\xfffecertain Pokemon with Kyurem
-An unique item that separates\xfffea centain pokemon from Kyurem.
+Esfera glauca de la que se dice que\xfffeguarda una estrecha relación con las\xfffeleyendas de Hoenn.
+Una Cápsula resistente que solo puede\xfffeabrirse con una llave especial.
+Esfera carmesí de la que se dice que\xfffeguarda una estrecha relación con las\xfffeleyendas de Hoenn.
+Esfera añil que, según dicen, guarda\xfffeuna estrecha relación con las leyendas\xfffede Hoenn.
+Esfera cristalina encontrada bajo\xfffetierra. A pesar de estar cubierta de\xffferoca y tierra, su belleza es increíble.
+Curiosa piedra que hace evolucionar\xfffea determinadas especies de Pokémon.\xfffeBrilla con los colores del arcoíris.
+Piedra evolutiva. El Pokémon portador\xfffeaumentará su Defensa y su Defensa\xfffeEspecial si aún puede evolucionar.
+Piedra muy ligera que reduce el peso\xfffedel Pokémon que la lleve.
+Si el portador es alcanzado por un\xfffeataque físico, el agresor también\xffferecibe daño.
+El Pokémon que lo lleve flotará en el\xfffeaire. Si recibe un golpe, estallará.
+Misteriosa tarjeta que permite al\xfffePokémon que la lleve expulsar al\xfffeagresor cuando este le cause daño.
+El Pokémon que lo lleva es vulnerable\xfffefrente a movimientos que normalmente\xfffeno afectan a su tipo.
+Banda que potencia los movimientos\xfffeque estrujan al rival.
+Raíz de usar y tirar que sube el Ataque\xfffeEspecial cuando se recibe un ataque\xfffede tipo Agua.
+Batería de usar y tirar que sube\xfffeel Ataque de quien la lleva cuando\xffferecibe un golpe de tipo Eléctrico.
+Si el portador es alcanzado por un\xfffeataque, saldrá del combate y será\xfffesustituido por otro Pokémon del equipo.
+Joya de un solo uso que potencia\xfffelos movimientos de tipo Fuego.\xfffeDebe llevarla un Pokémon.
+Joya de un solo uso que potencia\xfffelos movimientos de tipo Agua.\xfffeDebe llevarla un Pokémon.
+Joya de un solo uso que potencia\xfffelos movimientos de tipo Eléctrico.\xfffeDebe llevarla un Pokémon.
+Joya de un solo uso que potencia\xfffelos movimientos de tipo Planta.\xfffeDebe llevarla un Pokémon.
+Joya de un solo uso que potencia\xfffelos movimientos de tipo Hielo.\xfffeDebe llevarla un Pokémon.
+Joya de un solo uso que potencia\xfffelos movimientos de tipo Lucha.\xfffeDebe llevarla un Pokémon.
+Joya de un solo uso que potencia\xfffelos movimientos de tipo Veneno.\xfffeDebe llevarla un Pokémon.
+Joya de un solo uso que potencia\xfffelos movimientos de tipo Tierra.\xfffeDebe llevarla un Pokémon.
+Joya de un solo uso que potencia\xfffelos movimientos de tipo Volador.\xfffeDebe llevarla un Pokémon.
+Joya de un solo uso que potencia\xfffelos movimientos de tipo Psíquico.\xfffeDebe llevarla un Pokémon.
+Joya de un solo uso que potencia\xfffelos movimientos de tipo Bicho.\xfffeDebe llevarla un Pokémon.
+Joya de un solo uso que potencia\xfffelos movimientos de tipo Roca.\xfffeDebe llevarla un Pokémon.
+Joya de un solo uso que potencia\xfffelos movimientos de tipo Fantasma.\xfffeDebe llevarla un Pokémon.
+Joya de un solo uso que potencia\xfffelos movimientos de tipo Dragón.\xfffeDebe llevarla un Pokémon.
+Joya de un solo uso que potencia\xfffelos movimientos de tipo Siniestro.\xfffeDebe llevarla un Pokémon.
+Joya de un solo uso que potencia\xfffelos movimientos de tipo Acero.\xfffeDebe llevarla un Pokémon.
+Joya de un solo uso que potencia\xfffelos movimientos de tipo Normal.\xfffeDebe llevarla un Pokémon.
+Pluma que aumenta un poco los PS\xfffede un Pokémon al subir de nivel.
+Pluma que aumenta un poco el Ataque\xfffede un Pokémon al subir de nivel.
+Pluma que aumenta un poco la Defensa\xfffede un Pokémon al subir de nivel.
+Pluma que aumenta un poco\xfffeel Ataque Especial de un Pokémon\xfffeal subir de nivel.
+Pluma que aumenta un poco\xfffela Defensa Especial de un Pokémon\xfffeal subir de nivel.
+Pluma que aumenta un poco\xfffela Velocidad de un Pokémon\xfffeal subir de nivel.
+Pluma normal y corriente. Muy bonita,\xfffepero no sirve para nada.
+Fósil de un Pokémon ancestral que\xfffevivió en el fondo del mar. Parece ser\xfffeun fragmento de concha marina.
+Fósil de un Pokémon ancestral que\xfffesurcó los cielos. Parece ser parte\xfffede un ala suya.
+Ticket especial para ir a Isla Libertad\xfffemediante un barco de Ciudad Porcelana.
+Bola misteriosa que contiene el poder\xfffede la región de Teselia y se utiliza para\xfffegenerar Poderes Regalo.
+Bola especial que aparece de pronto\xfffeen tu Bolsa en el Bosque Nexo y\xfffepuede atrapar a cualquier Pokémon.
+Un objeto que atrae a los Pokémon.\xfffePuedes utilizarlo para huir de un\xfffecombate con un Pokémon salvaje.
+Bonita caja donde puedes guardar\xfffelos Complementos para vestir a tus\xfffePokémon en el Teatro Musical.
+Fósil del cráneo de un Pokémon.\xfffeSe dice que este Pokémon cruzó\xfffemares embravecidos.
+Extraña seta que desprende un\xfffeagradable aroma. Muy apreciada\xfffepor los gourmets.
+Pepita grande de oro puro que\xfffedesprende un brillo espectacular.\xfffeMuy valorada por los coleccionistas.
+Brillantes perlas plateadas de gran\xfffetamaño. Muy valoradas por los\xfffecoleccionistas.
+Fragmento de un cometa caído al\xfffesuelo al atravesar la atmósfera.\xfffeMuy valorado por los coleccionistas.
+Moneda de cobre de más de tres mil\xfffeaños de antigüedad. Muy valorada\xfffepor los coleccionistas.
+Moneda de plata de más de tres mil\xfffeaños de antigüedad. Muy valorada\xfffepor los coleccionistas.
+Moneda de oro de más de tres mil\xfffeaños de antigüedad. Muy valorada\xfffepor los coleccionistas.
+Jarrón de más de tres mil años de\xfffeantigüedad. Muy valorado por\xfffelos coleccionistas.
+Brazalete de más de tres mil años\xfffede antigüedad. Muy valorado por\xfffelos coleccionistas.
+Efigie de piedra de más de tres mil\xfffeaños de antigüedad. Muy valorada\xfffepor los coleccionistas.
+Corona de más de tres mil años\xfffede antigüedad. Muy valorada\xfffepor los coleccionistas.
+Especialidad de Ciudad Porcelana.\xfffeCura los problemas de estado de\xfffeun Pokémon.
+Aumenta la probabilidad de asestar\xfffeun golpe crítico. Al cambiar de\xfffePokémon, el efecto desaparece.
+Aumenta ligeramente la Velocidad en\xfffecombate. Al cambiar de Pokémon,\xfffeel efecto desaparece.
+Aumenta ligeramente el Ataque Especial\xfffeen combate. Al cambiar de Pokémon,\xfffeel efecto desaparece.
+Aumenta ligeramente la Defensa\xfffeEspecial en combate. Al cambiar\xfffede Pokémon, el efecto desaparece.
+Aumenta ligeramente la Defensa en\xfffecombate. Al cambiar de Pokémon,\xfffeel efecto desaparece.
+Aumenta ligeramente el Ataque en\xfffecombate. Al cambiar de Pokémon,\xfffeel efecto desaparece.
+Aumenta ligeramente la Precisión en\xfffecombate. Al cambiar de Pokémon,\xfffeel efecto desaparece.
+Aumenta bastante la Velocidad en\xfffecombate. Al cambiar de Pokémon,\xfffeel efecto desaparece.
+Aumenta bastante el Ataque Especial\xfffeen combate. Al cambiar de Pokémon,\xfffeel efecto desaparece.
+Aumenta bastante la Defensa Especial\xfffeen combate. Al cambiar de Pokémon,\xfffeel efecto desaparece.
+Aumenta bastante la Defensa en\xfffecombate. Al cambiar de Pokémon,\xfffeel efecto desaparece.
+Aumenta bastante el Ataque en\xfffecombate. Al cambiar de Pokémon,\xfffeel efecto desaparece.
+Aumenta bastante la Precisión en\xfffecombate. Al cambiar de Pokémon,\xfffeel efecto desaparece.
+Aumenta mucho la Velocidad en\xfffecombate. Al cambiar de Pokémon,\xfffeel efecto desaparece.
+Aumenta mucho el Ataque Especial\xfffeen combate. Al cambiar de Pokémon,\xfffeel efecto desaparece.
+Aumenta mucho la Defensa Especial\xfffeen combate. Al cambiar de Pokémon,\xfffeel efecto desaparece.
+Aumenta mucho la Defensa en\xfffecombate. Al cambiar de Pokémon,\xfffeel efecto desaparece.
+Aumenta mucho el Ataque en\xfffecombate. Al cambiar de Pokémon,\xfffeel efecto desaparece.
+Aumenta mucho la Precisión en\xfffecombate. Al cambiar de Pokémon,\xfffeel efecto desaparece.
+Al usarlo, activa la habilidad de\xfffeun Pokémon de tu equipo.
+Cuando se usa, un Pokémon de\xfffetu equipo pierde su objeto.
+Cuando se usa, un Pokémon\xfffede tu equipo utiliza su objeto\xfffeinmediatamente.
+Cuando se usa, se anulan los cambios\xfffeen las características de un Pokémon\xfffede tu equipo.
+Aumenta mucho la probabilidad de\xfffeasestar un golpe crítico. Al cambiar\xfffede Pokémon, su efecto desaparece.
+Forma que adoptó Reshiram\xfffeal perder su cuerpo. Espera\xfffela llegada de un nuevo héroe.
+Forma que adoptó Zekrom\xfffeal perder su cuerpo. Espera\xfffela llegada de un nuevo héroe.
+Placaje de alto voltaje que hiere\xfffetambién al atacante.
+Ataque demoledor que puede bajar la\xfffeDefensa del objetivo. También puede\xfffedestrozar piedras resquebrajadas.
+Ataca con un chillido desagradable\xfffeque baja el Ataque Especial del rival.
+Comunicador de alta tecnología con\xfffecámara que permite hablar a cuatro\xfffepersonas a la vez.
+Piedra enigmática.
+Carta importante que entrega Wingull.
+Carta importante que entrega Wingull.
+Carta importante que entrega Wingull.
+Comunicador de alta tecnología con\xfffecámara que permite hablar a cuatro\xfffepersonas a la vez.
+Reccolecta informacion sobre las\xfffemedallass conseguidas por pequeña oportunidad.
+Un item unico que une a\xfffeun cierto Pokemon con Kyurem.
+Un item unico que separa a\xfffeun cierto Pokemon con Kyurem.
 わずかな　ひとしか　しらない\xfffeしぜんほごくに　はいるために\xfffeひつような　ライセンスカード。
 もっていると　そだてやさんで\xfffeタマゴが　みつかりやすくなる\xfffeふしぎで　とてもまるい　おまもり。
 もっていると　ひかる　ポケモンと\xfffeであいやすくなる　といわれる\xfffeふしぎで　ひかりかがやく　おまもり。
@@ -636,4 +636,4 @@ An unique item that separates\xfffea centain pokemon from Kyurem.
 ポケモンの　のうりょくを　むりやり\xfffeめざめさせる　とくしゅな　そうち。\xfffeだが　しさくひんのため　ふかんぜん。
 ライモンシティの　ゆうえんちで\xfffeひろった　ライブキャスター。\xfffeおとしぬしは　おとこのこ　らしい。
 ライモンシティの　ゆうえんちで\xfffeひろった　ライブキャスター。\xfffeおとしぬしは　おんなのこ　らしい。
-Mirror that changes form\xfffeto show the truth.
+Espejo que cambia de forma\xfffepara enseñar la verdad.
