@@ -1,61 +1,62 @@
-¿Te gustaria salvar tu ultimo combate\xfffeen el Grabador de Batalla?
+¿Quieres guardar el último combate\xfffecomo tu Vídeo de Combate?
 Si.
 No.
-Tu ultimo combate no sera salvado.\xfffe¿De acuerdo?
+El último combate no se guardará.\xfffe¿Estás de acuerdo?
 Si.
 No.
-¿Estas de acuerdo en sobreescribir\xfffetu untima Batalla Grabada?
+El Vídeo de Combate previo se sobrescribirá.\xfffe¿Estás de acuerdo?
 Si.
 No.
 ¡Tu ultima batalla esta siendo grabada!\xfffe¡No apagues la consola!
-¡La Batalla Grabada ha sido guardada!
-Ha habido un error.\xfffeLa Batalla Grabada no ha sido guardada.
-Esperando la desicion de tu amigo.\xfffe¡Por favor espera!
-No puedes grabar videos con este entrenador.\xfffe¡Por favor espera!
-No puedes grabar videos con este entenador.
-La ultima batalla no ha sido grabada
-TIEMPO LIMITE
+Guardando el Vídeo de Combate...\xfffeNo apagues la consola.
+Se ha guardado el Vídeo de Combate.
+Se ha producido un error.\xfffeNo se ha podido guardar el vídeo.
+Esperando a que tu amigo se decida...\xfffeEspera un momento, por favor.
+No se puede grabar con este Entrenador.\xfffePor favor, espera.
+No se puede grabar con este Entrenador.
+No se puede grabar el vídeo.
+TIEMPO
 \xf000ȁ\x0001\x0000:\xf000ȁ\x0001\x0001
 \xf000ȁ\x0001\x0001
-RECORD ANTERIOR
-Coliseo Simple,\xfffeせいげんなし
-Coliseo Simple,\xfffeフラット
-Coliseo Simple,\xfffeせいげんなし シューターあり
-Coliseo Simple,\xfffeフラット　シューターあり
-Coliseo Doble,\xfffeせいげんなし
-Coliseo Doble,\xfffeフラット
-Coliseo Doble,\xfffeせいげんなし シューターあり
-Coliseo Doble,\xfffeフラット　シューターあり
-Coliseo Triple,\xfffeせいげんなし
-Coliseo Triple,\xfffeフラット
-Coliseo Triple,\xfffeせいげんなし シューターあり
-Coliseo Triple,\xfffeフラット　シューターあり
-Coliseo Rotatorio,\xfffeせいげんなし
-Coliseo Rotatorio,\xfffeフラット
-Coliseo Rotatorio,\xfffeせいげんなし シューターあり
-Coliseo Rotatorio,\xfffeフラット　シューターあり
-MultiColiseo,\xfffeせいげんなし
-MultiColiseo,\xfffeフラット
-MultiColiseo,\xfffeせいげんなし シューターあり
-MultiColiseoi,\xfffeフラット　シューターあり
-Metro de Batalla,\xfffUn jugador.
-Metro de Batalla,\xfffeDobles.
-Metro de Batalla,\xfffeMulti
-ランダムマッチ　フリー\xfffeシングル
-ランダムマッチ　フリー\xfffeダブル
-ランダムマッチ　フリー\xfffeトリプル
-ランダムマッチ　フリー\xfffeローテーション
-ランダムマッチ　フリー\xfffeシューターバトル
-ランダムマッチ　レーティング\xfffeシングル
-ランダムマッチ　レーティング\xfffeダブル
-ランダムマッチ　レーティング\xfffeトリプル
-ランダムマッチ　レーティング\xfffeローテーション
-ランダムマッチ　レーティング\xfffeシューターバトル
-たいかい　シングル\xfffeシューターなし
-たいかい　シングル\xfffeシューターあり
-たいかい　ダブル\xfffeシューターなし
-たいかい　ダブル\xfffeシューターあり
-たいかい　トリプル\xfffeシューターなし
-たいかい　トリプル\xfffeシューターあり
-たいかい　ローテーション\xfffeシューターなし
-たいかい　ローテーション\xfffeシューターあり
+VIDEO ANTERIOR
+Coliseo Individual:\xfffeSin restricciones
+Coliseo Individual:\xfffeCon restricciones
+Coliseo Individual:\xfffeSin restricciones con Lanzador
+Coliseo Individual:\xfffeCon restricciones con Lanzador
+Coliseo Doble:\xfffeSin restricciones
+Coliseo Doble:\xfffeCon restricciones
+Coliseo Doble:\xfffeSin restricciones con Lanzador
+Coliseo Doble:\xfffeCon restricciones con Lanzador
+Coliseo Triple:\xfffeSin restricciones
+Coliseo Triple:\xfffeCon restricciones
+Coliseo Triple:\xfffeSin restricciones con Lanzador
+Coliseo Triple:\xfffeCon restricciones con Lanzador
+Coliseo Rotatorio:\xfffeSin restricciones
+Coliseo Rotatorio:\xfffeCon restricciones
+Coliseo Rotatorio:\xfffeSin restricciones con Lanzador
+Coliseo Rotatorio:\xfffeCon restricciones con Lanzador
+Coliseo Múltiple:\xfffeSin restricciones
+Coliseo Múltiple:\xfffeCon restricciones
+Coliseo Múltiple:\xfffeSin restricciones con Lanzador
+Coliseo Múltiple:\xfffeCon restricciones con Lanzador
+Metro Batalla:\xfffeIndividual
+Metro Batalla:\xfffeDoble
+Metro Batalla:\xfffeMúltiple
+Emparejamiento Aleatorio Libre:\xfffeIndividual
+Emparejamiento Aleatorio Libre:\xfffeDoble
+Emparejamiento Aleatorio Libre:\xfffeTriple
+Emparejamiento Aleatorio Libre:\xfffeRotatorio
+Emparejamiento Aleatorio Libre:\xfffeLanzador
+Emparejamiento Aleatorio con Puntos\xfffeClasificatorios: Individual
+Emparejamiento Aleatorio con Puntos\xfffeClasificatorios: Doble
+Emparejamiento Aleatorio con Puntos\xfffeClasificatorios: Triple
+Emparejamiento Aleatorio con Puntos\xfffeClasificatorios: Rotatorio
+Emparejamiento Aleatorio con Puntos\xfffeClasificatorios: Lanzador
+Torneo Individual:\xfffeSin Lanzador
+Torneo Individual:\xfffeCon Lanzador
+Torneo Doble:\xfffeSin Lanzador
+Torneo Doble:\xfffeCon Lanzador
+Torneo Triple:\xfffeSin Lanzador
+Torneo Triple:\xfffeCon Lanzador
+Torneo Rotatorio:\xfffeSin Lanzador
+Torneo Rotatorio:\xfffeCon Lanzador
