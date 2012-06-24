@@ -66,14 +66,14 @@ Asignar objetos y funciones
 Acto del Viernes
 Traer Pokémon con el Pokétransfer
 Atrapar Pokémon con el Pokétransfer
-ぼうけんを　はじめたら\xfffeＸボタンで　メニューを　ひらき\xfffe「レポート」を　こまめに　かきましょう。\xfffe\xfffeレポートをかくと　ＤＳの　でんげんを\xfffeきっても　タイトルメニューの\xfffe「つづきから　はじめる」から\xfffeぼうけんの　つづきを　あそべます。
-レポートを　すべてけして　もういちど\xfffeさいしょから　ぼうけんを　はじめなおす\xfffeときは　タイトルがめんで\xfffe\xfffeうえボタン　セレクトボタン　Ｂボタン\xfffe\xfffeの　３つのボタンを\xfffeどうじに　ぜんぶ　おしてください。
-イベントかいじょうなどで　とくべつな\xfffeプレゼントを　つぎの　３つの　ほうほうで\xfffeうけとることが　できます。\xfffe・ワイヤレスつうしんで　うけとる\xfffe・Ｗｉ－Ｆｉつうしんで　うけとる\xfffe・せきがいせんつうしんで　うけとる\xfffe\xfffeイベントごとに　ほうほうが　きめられて\xfffeいますので　ごちゅういください。
-ふしぎな　おくりもので　とくべつな\xfffeポケモンや　どうぐを　もらえる\xfffeふしぎなカードを　じゅしんすると\xfffeポケモンセンターに\xfffeあおい　ぼうしを　かぶった\xfffeはいたついんが　やってきます。\xfffe\xfffeはいたついんに　はなしかけて\xfffeポケモンや　どうぐを　うけとってください。
-ふしぎなカードは　１２まいまで\xfffeもっておくことが　できます。\xfffe\xfffeふしぎなカードが　いっぱいのときに\xfffeさらにカードを　うけとりたいときは\xfffe「カードアルバムを　みる」から\xfffeおくりものを　すでに　うけとったカードを\xfffeけしてください。
-Ｗｉ－Ｆｉや　イベントかいじょうで\xfffeおこなわれる　ポケモンしょうぶの\xfffeたいかいに　さんかします。\xfffe\xfffeバトルたいかいについて　くわしくは\xfffeタイトルメニューの\xfffe「バトルたいかい」にある\xfffe「せつめいを　きく」を\xfffeかくにん　してください。
-ユーザーとうろくの　ほうほうや\xfffeバトルたいかいへの　さんかのしかた\xfffeルールのかくにんなど\xfffeバトルたいかいについて　くわしいことは\xfffeインターネットこうしきサイト\xfffe「ポケモングローバルリンク」か\xfffe「ポケットモンスターオフィシャルサイト」で\xfffeかくにん　してください。
-バトルたいかいには\xfffeゲームのなかの　パソコンにある\xfffe「バトルボックス」に　とうろくされている\xfffeポケモンが　さんかします。\xfffe\xfffeいちど　とうろくすると　たいかいちゅうは\xfffeバトルボックスを　へんこうできませんので\xfffeとうろくするまえに　じっくりかんがえて\xfffeポケモンを　えらんで　ください。
+Tras comenzar la aventura, abre el menú con\xfffeel Botón X y guarda la partida a medida que\xfffevayas avanzando.\xfffe\xfffeCuando ya hayas guardado alguna vez y\xfffeapagues tu consola Nintendo DS, podrás\xfffeescoger la opción CONTINUAR en el menú\xfffede inicio para seguir justo desde el lugar\xfffedonde lo dejaste.
+Si quieres borrar la partida y comenzar\xfffedesde el principio, pulsa arriba en el\xfffePanel de Control + SELECT + Botón B\xfffeen la pantalla del título.
+Puedes aceptar regalos especiales en lugares\xfffedonde se celebren eventos. Puedes hacerlo\xfffemediante los siguientes métodos:\xfffe- Comunicación inalámbrica.\xfffe- Conexión Wi-Fi de Nintendo.\xfffe- Comunicación por infrarrojos.\xfffe\xfffeTen siempre presente que el método depende\xfffedel evento al que asistas.
+Con los regalos misteriosos, al aceptar\xfffeuna Tarjeta misteriosa para recibir Pokémon\xfffeu objetos especiales, aparecerá en\xfffecualquier Centro Pokémon un repartidor\xfffeataviado con una gorra azul.\xfffe\xfffeHabla con él para que te entregue el Pokémon\xfffeu objeto que te envían.
+Puedes tener hasta un máximo de 12 Tarjetas\xfffemisteriosas.\xfffe\xfffeSi has llegado al límite, pero quieres recibir\xfffemás, accede a VER ÁLBUM DE TARJETAS y\xfffetira la de un regalo que ya hayas recibido.
+Aquí puedes participar en los Torneos Pokémon\xfffea los que podrás acceder usando la Conexión\xfffeWi-Fi de Nintendo o asistiendo a eventos\xfffeespeciales.\xfffe\xfffePara más información sobre los Torneos,\xfffeescoge TORNEO en el menú de inicio y,\xfffea continuación, selecciona INSTRUCCIONES.
+Para más información sobre cómo registrarse\xfffey cómo participar en los Torneos, accede a\xfffelos sitios web oficiales de Pokémon o de\xfffePokémon Global Link.
+Los Pokémon registrados en la Caja de\xfffeCombate del PC dentro del juego\xfffepueden participar en los Torneos.\xfffe\xfffeUna vez registrada, la Caja de Combate no se\xfffepuede modificar durante el Torneo, por eso\xfffete recomendamos pensar detenidamente a la\xfffehora de escoger Pokémon.
 バトルたいかいが　おわったあと\xfffeバトルボックスの　ポケモンをとりだすには\xfffeたいかいさんかを　かいじょ　するか\xfffeしゅうりょうする　ひつようが　あります。\xfffe\xfffeくわしくは　インターネットこうしきサイト\xfffe「ポケモングローバルリンク」か\xfffe「ポケットモンスターオフィシャルサイト」で\xfffeかくにん　してください。
 バトルたいかいへの\xfffeとうろくが　かんりょうすると\xfffeデジタルせんしゅしょうを\xfffeかくにん　できるように　なります。\xfffe\xfffeくわしいことは\xfffeインターネットこうしきサイト\xfffe「ポケモングローバルリンク」で\xfffeかくにん　してください。
 ゲームシンクせっていを　するには\xfffeあらかじめ　「Ｗｉ－Ｆｉせってい」を\xfffeすませておく　ひつようが　あります。\xfffe\xfffeＷｉ－Ｆｉせっていを　すませたあと\xfffeゲームシンクせっていを　えらぶと\xfffeあなただけの　ばんごうである\xfffe「ゲームシンクＩＤコード」が\xfffeはっこうされます。
