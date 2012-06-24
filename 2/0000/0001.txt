@@ -1,12 +1,12 @@
-HP/PP
-Restaurar
-Estado
-Sanadores
-HP/PP
-Restaurar
-Objetos para batalla
-Poké Balls
-Ultimo objeto usado
+PS/PP
+RESTAURAR
+ESTADO
+CURACIÓN
+PS/PP
+RESTAURAR
+OBJ. COMBATE
+POKÉ BALLS
+ÚLTIMO OBJETO USADO
 \xf000c\x0001\x0000
 ×\xf000?\x0001\x0000
 \xf000c\x0001\x0000
@@ -19,17 +19,17 @@ Ultimo objeto usado
 ×\xf000?\x0001\x0000
 \xf000c\x0001\x0000
 ×\xf000?\x0001\x0000
-Proximo
-HP/PP
-Restaurar
-Status
-Sanadores
-Poké Balls
-Objetos para batalla
+PROXIMO
+PS/PP
+RESTAURAR
+ESTADO
+CURACIÓN
+POKÉ BALLS
+OBJ. COMBATE
 /
 \xf000?\x0001\x0000
 \xf000?\x0001\x0000
-Usar
+USAR
 \xf000c\x0001\x0000
 ×\xf000?\x0001\x0000
 ¡No es buen momento para usar eso!
@@ -42,37 +42,12 @@ Usar
 \xf000A\x0001\x0000?\xfffe¡Defensa subio!
 \xf000A\x0001\x0000?\xfffe¡Precision subio!
 \xf000c\x0001\x0000?\xfffe¡fue usado!
-¡No! hay 2 pokemon\xfffe¡Hace que sea imposible apuntar...!
-¡No queda espacio libre en el PC!
+¡No tiene efecto! ¡No se puede apuntar\xfffecuando hay dos Pokémon!
+¡No queda sitio en el PC!
 \xf000c\x0001\x0001Su efecto prevee el uso del objeto\xfffe\xf000A\x0001\x0000!
-¡Esto no funciona! Es imposible apuntar a un Pokémon que no esta a la vista!
-¡Esto no funciona! Es imposible apuntar a un Pokémon que no esta a la vista!
-No tienes sufiente energia
-Te acordastes de las palabras de Juniper...\xfffe\xf000?\x0000¡Hay un lugar y un momento para todo! Y no es ahora.
-¡No puedes tirar la Pokéball\xfffesin concentrarte!
-ゲーチスの　つくった　そうちのせいで\xfffeボールは　つかえない！！
-／
-\xf000Ȁ\x0001\x0000
-\xf000Ȁ\x0001\x0000
-Gasto
-\xf000ĉ\x0001\x0000
-×\xf000Ȃ\x0001\x0000
-つかっても　こうかが　ないよ
-¡Envuelto de niebla blanca！\xfffe
-\xf000Ă\x0001\x0000は\xfffeはりきっている
-\xf000Ă\x0001\x0000の\xfffeこうげきが　あがった！
-\xf000Ă\x0001\x0000の\xfffeとくこうが　あがった！
-\xf000Ă\x0001\x0000の\xfffeすばやさが　あがった！
-\xf000Ă\x0001\x0000の\xfffeとくぼうが　あがった！
-\xf000Ă\x0001\x0000の\xfffeぼうぎょが　あがった！
-\xf000Ă\x0001\x0000の\xfffeめいちゅうりつが　あがった！
-\xf000ĉ\x0001\x0000を\xfffeつかった！
-だめだ！　２ひきいて\xfffeねらいが　さだまらない……！
-ボックスが　いっぱいです！
-\xf000ć\x0001\x0001の　こうかで\xfffe\xf000Ă\x0001\x0000には　つかえません！
-だめだ！　ポケモンが　みえなくて\xfffeねらいが　さだまらない……！
-だめだ！　ポケモンが　みえなくて\xfffeねらいが　さだまらない……！
-エネルギーが　たりません
-アララギの　ことば……\xfffeこういう　ものには\xf000븀\x0000\xfffeつかいどきが　あるのよ
-しゅうちゅう　しないと\xfffeボールは　じょうずに　なげられない！
+¡Es difícil apuntar a un Pokémon que\xfffeno está a la vista!
+¡Es difícil apuntar a un Pokémon que\xfffeno está a la vista!
+No tienes suficiente energía.
+Las palabras de la Prof.ª Encina te vienen\xfffea la memoria: “¡Cada cosa en su momento!".
+¡Hay que estar concentrado para poder\xfffeapuntar bien!
 ゲーチスの　つくった　そうちのせいで\xfffeボールは　つかえない！！
