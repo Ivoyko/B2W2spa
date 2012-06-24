@@ -1,3 +1,3 @@
-¿Estas seguro de que quieres eliminar\xfffetodos los datos?
-Los datos se eliminaran.\xfffe¿Estas seguro\xf000de que\x0000\xfffequieres eliminar los datos?\xfffeNo se podrá deshacer.
-Por favor espere mientras\xfffelos datos estan siendo eliminados.
+¿Borrar todos los datos guardados?
+Una vez que se borre la partida,\xfffeno podrás recuperarla.\xf000븁\x0000\xfffe¿Borrar de todos modos?
+Borrando todos los datos...\xfffeNo apagues la consola.
