@@ -156,78 +156,78 @@ Actual
 \xf000봃\x0001\x0000LANZADOR:
 \xf000봃\x0001\x0000\xf000ȃ\x0001\x0000
 \xf000봃\x0001\x0000\xf000Ȅ\x0001\x0000
-\xf000봃\x0001\x0000Rating
-\xf000봂\x0000YES
+\xf000봃\x0001\x0000PTOS. CLAS.
+\xf000봂\x0000SÍ
 \xf000봂\x0000NO
-YES
+SÍ
 NO
-Is it OK to disconnect from\xfffeNintendo Wi-Fi Connection?
-Colosseum Single,\xfffeNo Restrictions
-Colosseum Single,\xfffeFlat
-Colosseum Single,\xfffeNo Restrictions, Launcher On
-Colosseum Single,\xfffeFlat, Launcher On
-Colosseum Double,\xfffeNo Restrictions
-Colosseum Double,\xfffeFlat
-Colosseum Double,\xfffeNo Restrictions, Launcher On
-Colosseum Double,\xfffeFlat, Launcher On
-Colosseum Triple,\xfffeNo Restrictions
-Colosseum Triple,\xfffeFlat
-Colosseum Triple,\xfffeNo Restrictions, Launcher On
-Colosseum Triple,\xfffeFlat, Launcher On
-Colosseum Rotation,\xfffeNo Restrictions
-Colosseum Rotation,\xfffeFlat
-Colosseum Rotation,\xfffeNo Restrictions, Launcher On
-Colosseum Rotation,\xfffeFlat, Launcher On
-Colosseum Multi,\xfffeNo Restrictions
-Colosseum Multi,\xfffeFlat
-Colosseum Multi,\xfffeNo Restrictions, Launcher On
-Colosseum Multi,\xfffeFlat, Launcher On
-Battle Subway,\xfffeSingle
-Battle Subway,\xfffeDouble
-Battle Subway,\xfffeMulti
-Random Matchup, Free\xfffeSingle
-Random Matchup, Free\xfffeDouble
-Random Matchup, Free\xfffeTriple
-Random Matchup, Free\xfffeRotation
-Random Matchup, Free\xfffeLauncher Battle
-Random Matchup, Rating\xfffeSingle
-Random Matchup, Rating\xfffeDouble
-Random Matchup, Rating\xfffeTriple
-Random Matchup, Rating\xfffeRotation
-Random Matchup, Rating\xfffeLauncher Battle
-Competition, Single\xfffeLauncher Off
-Competition, Single\xfffeLauncher On
-Competition, Double\xfffeLauncher Off
-Competition, Double\xfffeLauncher On
-Competition, Triple\xfffeLauncher Off
-Competition, Triple\xfffeLauncher On
-Competition, Rotation\xfffeLauncher Off
-Competition, Rotation\xfffeLauncher On
-01: Colosseum, Single\xfffeLauncher Off
-02: Colosseum, Single\xfffeLauncher On
-03: Colosseum, Double\xfffeLauncher Off
-04: Colosseum, Double\xfffeLauncher On
-05: Colosseum, Triple\xfffeLauncher Off
-06: Colosseum, Triple\xfffeLauncher On
-07: Colosseum, Rotation\xfffeLauncher Off
-08: Colosseum, Rotation\xfffeLauncher On
-09: Colosseum, Multi\xfffeLauncher Off
-10: Colosseum, Multi\xfffeLauncher On
-11: Battle Subway\xfffeSingle
-12: Battle Subway\xfffeDouble
-13: Battle Subway\xfffeMulti
-14: Random Matchup\xfffeSingle
-15: Random Matchup\xfffeDouble
-16: Random Matchup\xfffeTriple
-17: Random Matchup\xfffeRotation
-18: Random Matchup\xfffeLauncher Battle
-19: Battle Competition
-20: Battle Castle\xfffeMulti
-21: Battle Arcade\xfffeSingle
-22: Battle Arcade\xfffeDouble
-23: Battle Arcade\xfffeMulti
-\xf000봂\x0000TAP HERE!
-Is it OK to disconnect from\xfffeNintendo Wi-Fi Connection?
+¿Quieres desconectarte de la\xfffeConexión Wi-Fi de Nintendo?
+Coliseo Individual:\xfffeSin restricciones
+Coliseo Individual:\xfffeCon restricciones
+Coliseo Individual:\xfffeSin restricciones con Lanzador
+Coliseo Individual:\xfffeCon restricciones con Lanzador
+Coliseo Doble:\xfffeSin restricciones
+Coliseo Doble:\xfffeCon restricciones
+Coliseo Doble:\xfffeSin restricciones con Lanzador
+Coliseo Doble:\xfffeCon restricciones con Lanzador
+Coliseo Triple:\xfffeSin restricciones
+Coliseo Triple:\xfffeCon restricciones
+Coliseo Triple:\xfffeSin restricciones con Lanzador
+Coliseo Triple:\xfffeCon restricciones con Lanzador
+Coliseo Rotatorio:\xfffeSin restricciones
+Coliseo Rotatorio:\xfffeCon restricciones
+Coliseo Rotatorio:\xfffeSin restricciones con Lanzador
+Coliseo Rotatorio:\xfffeCon restricciones con Lanzador
+Coliseo Múltiple:\xfffeSin restricciones
+Coliseo Múltiple:\xfffeCon restricciones
+Coliseo Múltiple:\xfffeSin restricciones con Lanzador
+Coliseo Múltiple:\xfffeCon restricciones con Lanzador
+Metro Batalla:\xfffeIndividual
+Metro Batalla:\xfffeDoble
+Metro Batalla:\xfffeMúltiple
+Emparejamiento Aleatorio Libre:\xfffeIndividual
+Emparejamiento Aleatorio Libre:\xfffeDoble
+Emparejamiento Aleatorio Libre:\xfffeTriple
+Emparejamiento Aleatorio Libre:\xfffeRotatorio
+Emparejamiento Aleatorio Libre:\xfffeLanzador
+Emparej. Aleatorio con Puntos\xfffeClasificatorios: Individual
+Emparej. Aleatorio con Puntos\xfffeClasificatorios: Doble
+Emparej. Aleatorio con Puntos\xfffeClasificatorios: Triple
+Emparej. Aleatorio con Puntos\xfffeClasificatorios: Rotatorio
+Emparej. Aleatorio con Puntos\xfffeClasificatorios: Lanzador
+Torneo Individual:\xfffeSin Lanzador
+Torneo Individual:\xfffeCon Lanzador
+Torneo Doble:\xfffeSin Lanzador
+Torneo Doble:\xfffeCon Lanzador
+Torneo Triple:\xfffeSin Lanzador
+Torneo Triple:\xfffeCon Lanzador
+Torneo Rotatorio:\xfffeSin Lanzador
+Torneo Rotatorio:\xfffeCon Lanzador
+01: Coliseo Individual:\xfffe       Sin Lanzador
+02: Coliseo Individual:\xfffe       Con Lanzador
+03: Coliseo Doble:\xfffe       Sin Lanzador
+04: Coliseo Doble:\xfffe       Con Lanzador
+05: Coliseo Triple:\xfffe       Sin Lanzador
+06: Coliseo Triple:\xfffe       Con Lanzador
+07: Coliseo Rotatorio:\xfffe       Sin Lanzador
+08: Coliseo Rotatorio:\xfffe       Con Lanzador
+09: Coliseo Múltiple:\xfffe       Sin Lanzador
+10: Coliseo Múltiple:\xfffe       Con Lanzador
+11: Metro Batalla:\xfffe       Individual
+12: Metro Batalla:\xfffe       Doble
+13: Metro Batalla:\xfffe       Múltiple
+14: Emparejamiento Aleatorio:\xfffe       Individual
+15: Emparejamiento Aleatorio:\xfffe       Doble
+16: Emparejamiento Aleatorio:\xfffe       Triple
+17: Emparejamiento Aleatorio:\xfffe       Rotatorio
+18: Emparejamiento Aleatorio:\xfffe       Lanzador
+19: Torneo
+20: Castillo Batalla:\xfffe       Múltiple
+21: Ruleta Batalla:\xfffe       Combate Individual
+22: Ruleta Batalla:\xfffe       Combate Doble
+23: Ruleta Batalla:\xfffe       Combate Múltiple
+\xf000봂\x0000¡TOCA AQUÍ!
+¿Quieres desconectarte de la\xfffeConexión Wi-Fi de Nintendo?
 　
 Authentication error.\xfffeUnable to connect.
 This data is already registered.\xfffeTouch the Touch Screen to continue.
