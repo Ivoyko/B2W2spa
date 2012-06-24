@@ -1,56 +1,56 @@
 \xf000Ă\x0001\x0000を　どうする？
 マーキング　してください
-ほんとうに　にがしますか？
-\xf000Ă\x0001\x0000を　そとに　にがしてあげた
-ばいばい　\xf000Ă\x0001\x0000！
-てもちが　いっぱいです！
-たたかうポケモンが　いなくなります！
-このボックスを　どうしますか？
-どのボックスに\xfffeジャンプしますか？
-どのテーマに　しますか？
-どの　かべがみに　しますか？
-ボックスそうさを　つづけますか？
-このボックスは　いっぱいです！
-バッグが　いっぱいです！
-\xf000ĉ\x0001\x0000を　あずかった！
-\xf000ĉ\x0001\x0000を　もたせた！
-ポケモンを　タッチ！
-どのボックスへ　あずける？
+¿Liberas a este Pokémon?
+\xf000Ă\x0001\x0000 ha sido liberado.
+¡Adiós, \xf000Ă\x0001\x0000!
+¡Tu equipo está completo!
+¡Ese es tu último Pokémon!
+¿Qué quieres hacer con esta Caja?
+¿A qué Caja quieres ir?
+Elige un tema.
+Elige un fondo.
+¿Continuar operaciones?
+La Caja está llena.
+La Bolsa está llena.
+¡Has cogido el objeto \xf000ĉ\x0001\x0000!
+¡Le has dado \xf000ĉ\x0001\x0000 al Pokémon!
+Toca el Pokémon.
+¿Mover a qué Caja?
 もちものなし
 ♂
 ♀
-\xf000ĉ\x0001\x0000を　あずかりますか？
-メールをしまうことは　できません！
-\xf000ĉ\x0001\x0000を　どうしますか？
-\xf000ĉ\x0001\x0000を　しまいますか？
-\xf000ĉ\x0001\x0000を　バッグに　いれた！
-どうぐを　もつことが　できます
-メールを　はずしてください！
-タマゴを　にがすことは　できません！
+¿Coger el objeto \xf000ĉ\x0001\x0000?
+No se pueden retirar las Cartas.
+\xf000ĉ\x0001\x0000 es el objeto elegido.
+¿Guardas el objeto \xf000ĉ\x0001\x0000?
+Has puesto \xf000ĉ\x0001\x0000 en la Bolsa.
+Puede llevar un objeto.
+Por favor, quita la Carta.
+No puedes liberar un Huevo.
 がったいした　キュレムは　にがせません！
-\xf000Ă\x0001\x0000が　もどってきちゃった！
-しんぱい　だったのかな……
-タマゴは　どうぐを　もてません！
-マークを　タッチしよう！
-ボックスに　おけます！
-てもちに　くわえることが　できます！
-このボックスは　いっぱいです！
-てもちが　いっぱいです！
+¡\xf000Ă\x0001\x0000 ha vuelto!
+¿Estaría preocupado por ti?
+Los Huevos no pueden llevar objetos.
+Toca la marca.
+DEJAR POKÉMON
+SACAR POKÉMON
+La Caja esta llena.
+¡Tu equipo esta lleno!
 ポケモンを　あずける
 ポケモンを　つれていく
 ボックスを　せいりする
-もちものを　せいりする
-バトルボックス
-ねかすポケモンをえらぶ
-メールは　いどうできません！
-\xf000ĉ\x0001\x0000を　もてない！
-メールを　もっています！
-たたかうポケモンが　いなくなります！
-メールは　いどうできません！
-ここでは　メールを　もたせられません
-タマゴは　えらべません！
-\xf000Ă\x0001\x0000を　ねむらせます\xfffeよろしいですか？
-このポケモンは\xfffeいまは　ねむくないみたいです
-ポケモンせんたくを　つづけますか？
-バトルボックスが　ロックされています\xfffeポケモンは　いどう　できません
-バトルボックスが　ロックされています\xfffeもちものは　へんこう　できません
+MOVER OBJETO
+CAJA DE COMBATE
+¿ACOSTAR QUÉ POKÉMON?
+No se puede mover la Carta.
+No puede llevar la \xf000ĉ\x0001\x0000.
+Lleva una Carta.
+¡Ese es tu último Pokémon!
+No se puede mover la Carta.
+Aquí no puedes darle una Carta.
+No puedes elegir un Huevo.
+\xf000Ă\x0001\x0000 se irá a la cama.\xfffe¿Estás de acuerdo?
+Parece que ahora no tiene sueño.
+¿Quieres continuar la selección?
+La Caja de Combate está bloqueada.\xfffeNo se pueden mover los Pokémon.
+La Caja de Combate está bloqueada.\xfffeNo se pueden cambiar los objetos.
