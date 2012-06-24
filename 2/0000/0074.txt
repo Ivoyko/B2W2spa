@@ -1,71 +1,71 @@
-タイトルメニュー
-ポケモンセンターの　せつめい
-Ｃギアの　せつめい
-メニューに　ついて
-せんとうに　ついて
-ポケモンの　じょうほう
-そのた
-つづきから　はじめる
-さいしょから　はじめる
-ふしぎな　おくりもの
-バトルたいかい
-デジタルせんしゅしょう
-ゲームシンクせってい
-Ｗｉ－Ｆｉせってい
-マイクテスト
-ポケモンセンター
-パソコンで　ポケモンをいれかえる
-ボックスを　せいりする
-バトルボックス
-つうしんこうかんの　はじめかた
-つうしんたいせんの　はじめかた
-シングルバトル
-ダブルバトル
-トリプルバトル
-ローテーションバトル
-ミラクルシューター
-ユニオンルーム
-Ｗｉ－Ｆｉクラブ
-グローバルターミナル
-ともだちコード
-Ｃギア（シーギア）
-すれちがいログ
-すれちがいちょうさ　とは
-すれちがいちょうさを　うける
-すれちがいちょうさを　はじめる
-すれちがいちょうさの　ほうこく
-ＩＲ(アイアール)つうしん
-ゲームシンク
-ハイリンク
-デルパワー
-デルダマ
-バッグ
-トレーナーカード
-ポケモンずかん
-ポケモンをつかまえるコツ
-タイプとあいしょう
-「ぶつり」「とくしゅ」「へんか」
-ひんし
-どく
-まひ
-ねむり
-こおり
-やけど
-こんらん
-メロメロ
-けいけんち
-しんか
-「せいかく」と　「こせい」
-ポケルス
-ポケモンのタマゴ
-はしる
-ダウジングマシン
-ライブキャスター
-ジムバッジ
-べんりボタン
-メダルラリー
-ポケシフターでポケモンをつれてくる
-ポケシフターでポケモンをつかまえる
+Menú de inicio
+Información sobre el Centro Pokémon
+Información sobre el C-Gear
+El menú
+Los combates
+Información sobre los Pokémon
+Otros
+Continuar
+Partida nueva
+Regalo misterioso
+Torneo
+Certificado Digital de Jugador
+Configuración de Sincronizar Juego
+Configuración de la CWF de Nintendo
+Prueba mic
+Centro Pokémon
+Cambiar Pokémon en el PC
+Organizar Caja
+Caja de Combate
+Iniciar un intercambio en conexión
+Iniciar un combate en conexión
+Combate Individual
+Combate Doble
+Combate Triple
+Combate Rotatorio
+Superlanzador
+Sala Unión
+Club Wi-Fi
+Terminal Global
+Clave de amigo
+C-Gear
+Registro de Encuentros
+Sondeos
+Aceptar Sondeos
+Comenzar Sondeos
+Resultado de Sondeos
+Comunicación por infrarrojos
+Sincronizar Juego
+Zona Nexo
+Poder Regalo
+Regalosferas
+Bolsa
+Ficha de Entrenador
+Pokédex
+Técnicas para atrapar Pokémon
+Tipos y compatibilidad
+Ataques: físicos/especiales/de estado
+Pokémon debilitados
+Pokémon envenenados
+Pokémon paralizados
+Pokémon dormidos
+Pokémon congelados
+Pokémon quemados
+Pokémon confusos
+Pokémon enamorados
+Puntos de Experiencia
+Evolución
+Naturaleza y personalidad
+Pokérus
+Huevos Pokemon
+Correr
+Zahorí
+Videomisor
+Medallas de Gimnasio
+Asignar objetos y funciones
+Cajas Viernes
+Traer Pokémon con el Pokétransfer
+Atrapar Pokémon con el Pokétransfer
 ぼうけんを　はじめたら\xfffeＸボタンで　メニューを　ひらき\xfffe「レポート」を　こまめに　かきましょう。\xfffe\xfffeレポートをかくと　ＤＳの　でんげんを\xfffeきっても　タイトルメニューの\xfffe「つづきから　はじめる」から\xfffeぼうけんの　つづきを　あそべます。
 レポートを　すべてけして　もういちど\xfffeさいしょから　ぼうけんを　はじめなおす\xfffeときは　タイトルがめんで\xfffe\xfffeうえボタン　セレクトボタン　Ｂボタン\xfffe\xfffeの　３つのボタンを\xfffeどうじに　ぜんぶ　おしてください。
 イベントかいじょうなどで　とくべつな\xfffeプレゼントを　つぎの　３つの　ほうほうで\xfffeうけとることが　できます。\xfffe・ワイヤレスつうしんで　うけとる\xfffe・Ｗｉ－Ｆｉつうしんで　うけとる\xfffe・せきがいせんつうしんで　うけとる\xfffe\xfffeイベントごとに　ほうほうが　きめられて\xfffeいますので　ごちゅういください。
