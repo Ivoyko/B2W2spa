@@ -229,116 +229,117 @@ Torneo Rotatorio:\xfffeCon Lanzador
 \xf000봂\x0000¡TOCA AQUÍ!
 ¿Quieres desconectarte de la\xfffeConexión Wi-Fi de Nintendo?
 　
-Authentication error.\xfffeUnable to connect.
-This data is already registered.\xfffeTouch the Touch Screen to continue.
-There appears to be a problem\xfffewith the Musical Photo.
-There appears to be a problem with the\xfffePokémon in the Musical Photo.
-There appears to be a problem\xfffewith the Profile data.
-An error occurred.\xfffeTouch the Touch Screen to continue.
+Se ha producido un error de autenticación.\xfffeNo se ha podido establecer la conexión.
+Estos datos ya están registrados.\xfffeToca la pantalla táctil para continuar.
+Al parecer hay un problema con\xfffela Foto del Musical.
+Al parecer hay un problema con los Pokémon\xfffede la Foto del Musical.
+Al parecer hay un problema con\xfffelos datos del Perfil.
+Se ha producido un error.\xfffeToca la pantalla táctil para continuar.
 　
-Authentication error.\xfffeUnable to connect.
-There appears to be a problem with the\xfffechosen Pokémon.
-An error occurred.\xfffeTouch the Touch Screen to continue.
+Se ha producido un error de autenticación.\xfffeNo se ha podido establecer la conexión.
+Al parecer hay un problema con\xfffeel Pokémon seleccionado.
+Se ha producido un error.\xfffeToca la pantalla táctil para continuar.
 　
-User authentication error.\xfffePlease wait a while before reconnecting.
-This data is already registered.\xfffeTouch the Touch Screen to continue.
-There appears to be a problem with the\xfffeBox Data.
-There appears to be a problem with the\xfffeProfile data.
-There appears to be a problem with your\xfffeparty.
-An error occurred.\xfffeTouch the Touch Screen to continue.
+Se ha producido un error de autenticación.\xfffeEspere mientras intentamos restablecer la conexión.
+Estos datos ya están registrados.\xfffeToca la pantalla táctil para continuar.
+Al parecer hay un problema con la\xfffecaja de datos.
+Al parecer hay un problema con\xfffelos datos del Perfil.
+Al parecer hay un problema con tu\xfffeequipo.
+Se ha producido un error.\xfffeToca la pantalla táctil para continuar.
 　
-User authentication error.\xfffePlease wait a while before reconnecting.
-There appears to be a problem with your\xfffeparty.
-An error occurred.\xfffeTouch the Touch Screen to continue.
+Se ha producido un error de autenticación.\xfffeEspere mientras intentamos restablecer la conexión.
+Al parecer hay un problema con tu\xfffeequipo.
+Se ha producido un error.\xfffeToca la pantalla táctil para continuar.
 　
-User authentication error.\xfffePlease wait a while before reconnecting.
-An error occurred.\xfffeTouch the Touch Screen to continue.
+Se ha producido un error de autenticación.\xfffeEspera mientras intentamos restablecer la conexión.
+Se ha producido un error.\xfffeToca la pantalla táctil para continuar.
+
+Se ha producido un error de autenticación.\xfffeEspere mientras intentamos restablecer la conexión.
+Ha habido un problema al guardar los datos del ranking.\xfffeToca la pantalla táctil para continuar.
+Al parecer hay un problema con tu\xffferecords del ranking.
+Al parecer hay un problema con tus\xfffedatos de perfil.
+Se ha producido un error.\xfffeToca la pantalla táctil para continuar.
 　
-User authentication error.\xfffePlease wait a while before reconnecting.
-Failed to receive ranking data.\xfffeTouch the Touch Screen to continue.
-There appears to be a problem with your\xffferanking record.
-here appears to be a problem with the\xfffeProfile data.
-An error occurred.\xfffeTouch the Touch Screen to continue.
+Se ha producido un error de autenticación.\xfffeNo se ha podido establecer la conexión.
+Estos datos ya están registrados.\xfffeToca la pantalla táctil para continuar.
+Al parecer hay un problema con\xfffeel Vídeo de Combate.
+Al parecer hay un problema con\xfffeel Vídeo de Combate.
+Al parecer hay un problema con\xfffelos datos del Perfil.
+Al parecer hay un problema con los Pokémon\xfffedel Vídeo de Combate.
+Se ha producido un error.\xfffeToca la pantalla táctil para continuar.
 　
-Authentication error.\xfffeUnable to connect.
-This data is already registered.\xfffeTouch the Touch Screen to continue.
-There appears to be a problem\xfffewith the Battle Video.
-There appears to be a problem\xfffewith the Battle Video.
-There appears to be a problem\xfffewith the Profile data.
-There appears to be a problem with the\xfffePokémon in the Battle Video.
-An error occurred.\xfffeTouch the Touch Screen to continue.
+Se ha producido un error de autenticación.\xfffeNo se ha podido establecer la conexión.
+Al parecer hay un problema con\xfffelos criterios de búsqueda.
+Al parecer hay un problema con\xfffelos criterios de búsqueda.
+No se ha podido realizar la búsqueda.
 　
-Authentication error.\xfffeUnable to connect.
-There appears to be a problem\xfffewith the search criteria.
-There appears to be a problem\xfffewith the search criteria.
-The search failed...
-　
-Authentication error.\xfffeUnable to connect.
-No matching Battle Videos found...\xfffeTouch the Touch Screen to continue.
-You cannot watch this Battle Video.
-Failed to receive the Battle Video.
-　
-　
-　
-　
-　
-An error occurred.\xfffeError Code 10601
-An error occurred.\xfffeError Code 10602
-An error occurred.\xfffeError Code 10603
-An error occurred.\xfffeError Code 10604
-Unable to connect.\xfffeError Code 10605
-An error occurred.\xfffeError Code 10606
-Unable to connect.\xfffeError Code 10607
-An error occurred.\xfffeError Code 10608
-An error occurred.\xfffeError Code 10609
-There is no response.\xfffeError Code 10610
-There is no response.\xfffeError Code 10611
-There is no response.\xfffeError Code 10612
-Communication was interrupted.\xfffeError Code 10613
-Unable to connect.\xfffeError Code 10614
+Se ha producido un error de autenticación.\xfffeNo se ha podido establecer la conexión.
+No se ha encontrado ningún Vídeo de\xfffeCombate con los criterios indicados.
+Este Vídeo de Combate no se puede ver.
+No se ha podido recibir el Vídeo de Combate
 　
 　
 　
 　
 　
+Se ha producido un error.\xfffeError: 10601
+Se ha producido un error.\xfffeError: 10602
+Se ha producido un error.\xfffeError: 10603
+Se ha producido un error.\xfffeError: 10604
+No se ha podido establecer la conexión.\xfffeError: 10605
+Se ha producido un error.\xfffeError: 10606
+No se ha podido establecer la conexión.\xfffeError: 10607
+Se ha producido un error.\xfffeError: 10608
+Se ha producido un error.\xfffeError: 10609
+No se recibe ninguna señal.\xfffeError: 10610
+No se recibe ninguna señal.\xfffeError: 10611
+No se recibe ninguna señal.\xfffeError: 10612
+La conexión se ha interrumpido.\xfffeError: 10613
+No se ha podido establecer la conexión.\xfffeError: 10614
 　
 　
-The connection to the server was lost.\xfffeTouch the Touch Screen to continue.
 　
 　
-There is nothing saved.\xfffeTouch the Touch Screen to continue.
-Please choose a Box.
-An empty Box’s Data can’t be sent.
-Where would you like to send this?
-Only one Box Data may be sent at a time.
-The same Box Data can’t be sent.
-Which category would you like to see?
-The saved data could not be deleted...
-The same Battle Video can't be saved again.\xfffeTouch the Touch Screen to continue.
-Saving...\xfffeDon't turn off the power.
-Receiving ranking data...
-Sending save data...
-Save completed.\xfffeTouch the Touch Screen to continue.
-Is it OK to delete\xfffe\xf000Ā\x0001\x0000's Battle Video?
-Is it really OK to delete this data?
-Deleting data...\xfffeSaving... Don't turn off the power.
-The data was deleted.\xfffeTouch the Touch Screen to continue.
-Sending your Musical Photo...
-Receiving Musical Photo...
-Sending your Box Data...
-Receiving Box Data...
-You have no saved data to send.\xfffeParticipate in the data to send.
-The same data can't be sent again.\xfffeTouch the Touch Screen to continue.
-Receiving Battle Videos...
-No matching data was found...\xfffeTouch the Touch Screen to continue.
-No matching Musical Photo was found...\xfffeTouch the Touch Screen to continue.
-Your Battle Video was sent.\xfffeVideo no.: \xf000ȁ\x0001\x0000-\xf000Ȅ\x0001\x0001-\xf000Ȅ\x0001\x0002
-The game will be saved before\xfffeyou can view Battle Videos.
-Deleting data... Saving a lot of\xfffedata... Don't turn off the power.
-Saving a lot of data...\xfffeDon't turn off the power.
-Saving...\xfffeDon't turn off the power.
-There is no ranking data...\xfffeTouch the Touch Screen to continue.
-Would you like to send\xfffeyour Battle Video?
+　
+　
+　
+Se ha perdido la conexión con el servidor.\xfffeToca la pantalla táctil para continuar.
+　
+　
+No hay datos guardados.\xfffeToca la pantalla táctil para continuar.
+Porfavor elige una Caja.
+No puedes enviar una Caja de datos vaciat.
+¿Donde te gustaria enviar esto?
+Solo una Caja de datos puede ser enviada al mismo tiempo.
+No puedes volver a enviar la misma Caja de datos.
+¿Que categoria te gustaria ver?
+No se han podido borrar los datos\xfffeguardados.
+No puedes volver a guardar el mismo vídeo.\xfffeToca la pantalla táctil para continuar.
+Guardando...\xfffeNo apagues la consola.
+Recibiendo datos de Clasificación...
+Enviando información de guardado...
+Guardado completado.\xfffeToca la pantalla táctil para continuar.
+¿Quieres borrar el Vídeo de Combate\xfffede \xf000Ā\x0001\x0000?
+¿Quieres borrar estos datos?
+Borrando datos...\xfffeNo apagues la consola.
+Se han borrado los datos.\xfffeToca la pantalla táctil para continuar.
+Enviando Foto del Musical...
+Recibiendo Foto del Musical...
+Enviando tus Datos de la Caja...
+Recibiendo Datos de la Caja...
+No tienes ninguna Foto que enviar.\xfffe¡Ve a participar en el Musical!
+No puedes volver a enviar los mismos datos.\xfffeToca la pantalla táctil para continuar.
+Recibiendo Vídeos de Combate...
+No se ha encontrado datos que coincidan...\xfffeToca la pantalla táctil para continuar.
+No se ha encontrado ninguna Foto del Musical....\xfffeToca la pantalla táctil para continuar.
+Se ha enviado tu Vídeo de Combate.\xfffeVídeo n.º: \xf000ȁ\x0001\x0000-\xf000Ȅ\x0001\x0001-\xf000Ȅ\x0001\x0002
+Se va a guardar la partida antes de ver\xfffeel Vídeo de Combate.
+Borrando datos... Guardando muchos\xfffedatos... No apagues la consola.
+Guardando muchos datos...\xfffeNo apagues la consola.
+Guardando...\xfffeNo apagues la consola.
+No hay datos de Clasificación.\xfffeToca la pantalla táctil para continuar.
+¿Quieres enviar tu Vídeo de Combate?
+
 
 　
 　
@@ -346,27 +347,26 @@ Would you like to send\xfffeyour Battle Video?
 
 　
 　
-　
-Latest 20 in the Favorite PC Box
-Latest 20 in the Cool PC Box
-Latest 20 in the Cute PC Box
-Latest 20 in the Suggested PC Box
-Latest 20 in the Fun PC Box
-Latest 20 in the Select PC Box
-School Kid♂
-Bug Catcher
-Ace Trainer♂
-Roughneck
-Ruin Maniac
-Black Belt
-Rich Boy
-Psychic♂
-Lass
-Battle Girl
-Beauty
-Ace Trainer♀
-Idol
-Socialite
-Cowgirl
-Lady
-Goldver．
+Ultimos 20 en tu Caja Favorita del PC
+Ultimos 20 en tu Caja Guai del PC
+Ultimos 20 en tu Caja Monos del PC
+Ultimos 20 en tu Caja Sugeridos del PC
+Ultimos 20 en tu Caja Divertidos del PC
+Ultimos 20 en tu Caja Seleccionados del PC
+Escolar♂
+Cazabichos
+Entrenador de elite
+Rufián
+Ruina Maniaco
+Cinturon Negro
+Niño rico
+Psiquico♂
+Muchacha
+Chica Luchadora
+Chica Bella
+Entrenadora de Elite
+Idolo
+Mundano
+Vaquera
+Damisela
+Goldver
