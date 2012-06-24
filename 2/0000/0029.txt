@@ -1,21 +1,21 @@
-Ｘボタン
-ＳＥＬＥＣＴ
-Ｂボタン
-らくがきツールを　つかう
-がぞうを　とめる
-らくがきを　やめる
-ペンサイズを　へんこう
-いろを　スポイト
-けしゴムに　へんこう
-らくがきツールを　とじる
-スタンプ
-らくがきモード
-ＲＥＣ
-らくがき
+BOTÓN X
+SELECT
+BOTÓN B
+MOSTRAR HERRAMIENTAS
+CONGELAR IMAGEN
+SALIR DEL MODO CARICATURA
+CAMBIAR GROSOR DEL LÁPIZ
+COPIAR COLOR
+BORRAR
+OCULTAR HERRAMIENTAS
+PONER SELLOS
+MODO CARICATURA
+GRABAR
+CARICATURA
 ＩＤ\xf000Ȅ\x0001\x0000
 ―／―
 \xf000Ȁ\x0001\x0000／４
-ともだちを　えらんでください
+Selecciona a tus amigos.
 ともだちを　よびだす
 さんかする
 ともだちを　よびだしちゅう！
