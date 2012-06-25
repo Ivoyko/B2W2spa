@@ -4,7 +4,7 @@ Aragón
 Asturias
 Islas Baleares
 País Vasco
-Canarias
+Islas Canarias
 Cantabria
 Castilla-La Mancha
 Castilla y León
@@ -15,4 +15,4 @@ Madrid
 Murcia
 Navarra
 La Rioja
-Valencia
+Comunidad Valenciana
