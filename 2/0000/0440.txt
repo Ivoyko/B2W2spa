@@ -1,6 +1,6 @@
-Si.
-No.
-Olvidado
-¡Mantener movimientos antiguos!
-¡Renunciar\xf000ć\x0001\x0000!
-¡No renunciar\xf000ć\x0001\x0000!
+SÍ
+NO
+Olvidar un movimiento antiguo
+Conservar movimientos antiguos
+No aprender \xf000ć\x0001\x0000
+Aprender \xf000ć\x0001\x0000
