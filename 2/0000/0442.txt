@@ -1,20 +1,19 @@
-
-Durante algún tiempo después de su nacimiento,\xfffecrece mediante la obtención de alimento de \ xfffelas semillas en su parte posterior.
-Cuando el brote comienza en su espalda\xfffetransmite un dulce aroma que\xfffeindica que la flor va florecer.
-Despues de un dia lluvioso, la flor en\xfffsu espalda huele mas fuerte. El\xfffeolor atrae otros Pokémon.
-El fuego de la punta de su cola\xfffes simbolo de su vida. Si esta sano,\xfffesu cola ardera intensamente.
-En las montañas rocosas donde\xfffeCHARMELEON vive, sus fieras\xfffecolas brillan en la noche como estrellas.
-Se dice que el fuego de CHARIZARD\xfffearde con mas intensidad si\xfffexperimentan duros comabates.
-Se esconde en su concha,\xffeluego contratacan con su chorro\xfffede agua en cuanto tiene oportunidad.
-Se dicen que pueden vivir 10,000 años.\xfffeSu cola peluda es como un\xfffesimbolo de longelividad.
-Sus chorros de aguan son disparados\xfffedesde sus cañones que estan en su concha\xfffepuede perforar hasta el acero.
-Desprende un error por su antena\xffferoja para repeler a los enemigos. Su\xfffemuda crece varias veces.
-Su concha de acero protege su\xfffetierno cuerpo. Soporta en silencios\xfffelas dificultades a la espera de evolucionar.
-Ama la miel de las flores y\xfffees capaz de localizar las flores que\xfffehposeen pequeñas cantidades de polen.
-Se come su peso en hojas en un\xfffedia. Se enfrenta a sus oponentes con\xfffel pincho de su cabeza.
-Mientras espera su evolucion, Se\xfffese esconde de sus depredadores\xfffeen los rincones de las ramas.
-Su mejor ataque implica volar\xfffealrededor a gran velocidad, golpeando con sus\xfffeaguijones venenosos, antes de descender.
-Es docil y prefiere esquivar el\xfffeconflicto. Si es molestado, sin embargo,\xfffepuede contratacar ferozmente.
+Después de nacer, crece alimentándose\xfffede la semilla de su lomo.
+Cuando el capullo de su lomo se hincha,\xfffedesprende un dulce aroma para indicar\xfffeel florecimiento.
+Después de un día de lluvia, la flor de\xfffesu lomo tiene un aroma más potente\xfffey atrae a otros Pokémon.
+La llama de la punta de su cola indica\xfffesu salud. Si Charmander está sano,\xfffearderá con más fuerza.
+En las montañas rocosas donde viven\xfffelos Charmeleon, sus colas ardientes\xfffebrillan como estrellas.
+Se dice que el fuego de Charizard\xfffearde con más fuerza si ha vivido\xfffeduras batallas.
+Se protege con su caparazón y luego\xfffecontraataca lanzando agua a presión\xfffecuando tiene oportunidad.
+Se dice que vive 10 000 años.\xfffeSu peluda cola es un símbolo\xfffede longevidad.
+Los chorros de agua que lanza\xfffepor los tubos de su caparazón\xfffepueden atravesar el acero.
+Su antena roja desprende un gran\xfffehedor para repeler a los enemigos.\xfffeCrece mudándose repetidamente.
+Su frágil cuerpo está recubierto\xfffede una coraza dura como el acero.\xfffePermanece quieto en su desarrollo.
+Adora el néctar de las flores.\xfffePuede localizar hasta las más\xfffepequeñas cantidades de polen.
+Come el equivalente a su peso en\xfffehojas todos los días. Se defiende\xfffecon el aguijón de su cabeza.
+Se esconde de sus atacantes\xfffeentre las ramas de los árboles\xfffemientras espera a evolucionar.
+Atacan volando alrededor del objetivo\xfffey usando su aguijón venenoso antes\xfffede huir.
+Es manso y prefiere evitar\xfffelos problemas. Sin embargo,\xfffesi le molestan, atacará ferozmente.
 ひろい　なわばりを　とびまわりながら\xfffeえものを　さがす。はったつした\xfffeあしの　ツメで　えものを　しとめる。
 ピジョットが　ちからいっぱい\xfffeはばたくと　たいぼくも　しなるほどの\xfffeきょうふうを　まきおこす。
 １にちじゅう　エサを　さがしている。\xfffeキバは　しぬまで　のびつづけるので\xfffeかたいものを　かじって　けずる。
