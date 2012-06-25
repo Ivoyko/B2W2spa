@@ -13,22 +13,22 @@ Aruba
 Australia
 Austria
 Azerbaiyán
-Las Bahamas
-Bahrein
+Bahamas
+Bahréin
 Bangladesh
 Barbados
-Belarús
+Bielorrusia
 Bélgica
 Belice
-Benin
-Bermuda
+Benín
+Bermudas
 Bután
 Bolivia
-Bosnia y Herzegovina
-Botswana
+Bosnia-Herzegovina
+Botsuana
 Brasil
 Islas Vírgenes Británicas
-Brunei Darussalam
+Brunéi Darussalam
 Bulgaria
 Burkina Faso
 Burundi
@@ -36,7 +36,7 @@ Camboya
 Camerún
 Canadá
 Cabo Verde
-Las Islas Caimán
+Islas Caimán
 República Centroafricana
 Chad
 Islas del Canal
@@ -44,18 +44,18 @@ Chile
 China
 Isla de Navidad
 Colombia
-Las Comoras
+Comoras
 Congo
-Las Islas Cook
+Islas Cook
 Costa Rica
 Costa de Marfil
 Croacia
 Cuba
 Chipre
-La República Checa
+República Checa
 Corea del Norte
 República Democrática del Congo
-Timor-Leste
+Rep. Democrática de Timor Oriental
 Dinamarca
 Yibuti
 Dominica
@@ -67,13 +67,13 @@ Guinea Ecuatorial
 Eritrea
 Estonia
 Etiopía
-De las Islas Malvinas
-Las Islas Feroe
+Islas Malvinas
+Islas Feroe
 Fiyi
 Finlandia
 Francia
-Francés de Guayana
-Polinesia francés
+Guayana Francesa
+Polinesia Francesa
 Gabón
 Gambia
 Georgia
@@ -88,7 +88,7 @@ Guam
 Guatemala
 Guinea
 Guinea-Bissau
-Guayana
+Guyana
 Haití
 Honduras
 Hungría
@@ -96,9 +96,9 @@ Islandia
 India
 Indonesia
 Irán
-Irak
+Iraq
 Irlanda
-Isla de Man.
+Isla de Man
 Israel
 Italia
 Jamaica
@@ -106,7 +106,7 @@ Isla de Jan Mayen
 Japón
 Jordania
 Cachemira
-Kazajstán
+Kazajistán
 Kenia
 Kiribati
 Kuwait
@@ -120,14 +120,14 @@ Libia
 Liechtenstein
 Lituania
 Luxemburgo
-Macedonia (ARYM)
+Antigua Rep. Yugoslava de Macedonia
 Madagascar
-Malawi
+Malaui
 Malasia
 Maldivas
 Malí
 Malta
-Las Islas Marshall
+Islas Marshall
 Martinica
 Mauritania
 Mauricio
@@ -151,15 +151,15 @@ Nicaragua
 Níger
 Nigeria
 Niue
-Norfolk Island
+Isla Norfolk
 Islas Marianas del Norte
 Noruega
 Omán
 Pakistán
-Palau
+Palaos
 Palestina
 Panamá
-Papua Nueva Guinea
+Papúa Nueva Guinea
 Paraguay
 Perú
 Filipinas
@@ -169,16 +169,16 @@ Portugal
 Puerto Rico
 Qatar
 Corea del Sur
-Moldova
-La Reunión
-Rumania
-Federación de Rusia
+Moldavia
+Reunión
+Rumanía
+Federación Rusa
 Ruanda
 Santa Helena
-Saint Kitts y Nevis
+San Cristóbal y Nieves
 Santa Lucía
 San Vicente y las Granadinas
-San Pedro y Miquelón
+San Pedro y Miguelón
 Samoa
 San Marino
 Santo Tomé y Príncipe
@@ -190,18 +190,18 @@ Sierra Leona
 Singapur
 Eslovaquia
 Eslovenia
-Las Islas Salomón
+Islas Salomón
 Somalia
 Sudáfrica
 España
 Sri Lanka
 Sudán
-Suriname
+Surinam
 Suazilandia
 Suecia
 Suiza
-Siria
-Taiwan
+República Árabe Siria
+Taiwán
 Tayikistán
 Tailandia
 Togo
@@ -217,17 +217,17 @@ Uganda
 Ucrania
 Emiratos Árabes Unidos
 Reino Unido
-Tanzania
+República Unida de Tanzania
 Estados Unidos de América
-Estados Unidos Islas Vírgenes
+Islas Vírgenes Americanas
 Uruguay
 Uzbekistán
 Vanuatu
-Santa Sede (Ciudad del Vaticano)
+Ciudad del Vaticano
 Venezuela
 Vietnam
 Wallis y Futuna
-El Sáhara Occidental
+Sáhara Occidental
 Yemen
 Zambia
 Zimbabue
