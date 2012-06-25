@@ -7,7 +7,7 @@ Bihar
 Chandigarh
 Chhattisgarh
 Dadra y Nagar Haveli
-Daman y Diu
+Damán y Diu
 Delhi
 Goa
 Gujarat
@@ -17,17 +17,17 @@ Jammu y Cachemira
 Jharkhand
 Karnataka
 Kerala
-Lakshadweep
+Laquedivas
 Madhya Pradesh
-Distrito Federal
+Maharashtra
 Meghalaya
 Mizoram
 Manipur
 Nagaland
 Orissa
-Pondicherry
+Puducherry
 Punjab
-Rajasthan
+Rajasthán
 Sikkim
 Tamil Nadu
 Tripura
