@@ -9,7 +9,7 @@ Connecticut
 Delaware
 Florida
 Georgia
-Hawai
+Hawái
 Idaho
 Illinois
 Indiana
@@ -22,12 +22,12 @@ Maryland
 Massachusetts
 Michigan
 Minnesota
-Misisipí
+Misisipi
 Misuri
 Montana
 Nebraska
 Nevada
-Nueva Hampshire
+Nuevo Hampshire
 Nueva Jersey
 Nuevo México
 Nueva York
@@ -37,7 +37,7 @@ Ohio
 Oklahoma
 Oregón
 Pensilvania
-Rhod Island
+Rhode Island
 Carolina del Sur
 Dakota del Sur
 Tennessee
@@ -46,7 +46,7 @@ Utah
 Vermont
 Virginia
 Washington
-Washington, DC
+Washington DC
 Virginia Occidental
 Wisconsin
 Wyoming
