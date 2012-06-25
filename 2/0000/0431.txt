@@ -1,4 +1,3 @@
-Ninguno
 Hokkaido (Sapporo)
 Hokkaido (Hakodate)
 Hokkaido (Wakkanai)
@@ -27,9 +26,9 @@ Shizuoka
 Aichi
 Mie
 Shiga
-Kyoto
+Kioto
 Osaka
-Acción de Hyogo
+Hyogo
 Nara
 Wakayama
 Tottori
@@ -42,7 +41,7 @@ Kagawa
 Ehime
 Kochi
 Fukuoka
-saga
+Saga
 Nagasaki
 Kumamoto
 Oita
