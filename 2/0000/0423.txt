@@ -1,6 +1,6 @@
 Ninguno
 Anhui
-Beijing
+Pekín
 Chongqing
 Fujian
 Gansu
@@ -17,7 +17,7 @@ Jiangsu
 Jiangxi
 Jilin
 Liaoning
-Mongolia Interior
+Neimenggu
 Ningxia
 Qinghai
 Shaanxi
@@ -27,8 +27,8 @@ Shanxi
 Sichuan
 Tianjin
 Xinjiang
-Tíbet
+Xizang
 Yunnan
 Zhejiang
 Hong Kong
-Macau
+Macao
