@@ -1,6 +1,6 @@
 Ninguno
 Blekinge
-Dalarna
+Dalecarlia
 Gävleborg
 Gotland
 Halland
@@ -12,7 +12,7 @@ Norrbotten
 Öland
 Örebro
 Östergötland
-Skåne
+Escania
 Södermanland
 Estocolmo
 Uppsala
