@@ -2,6 +2,7 @@ Hola, bienvenido\xfffeal Centro Pokémon.\xf000븁\x0000\xfffeNosotros curamos a
 Buenos dias, bienvenido\xfffeal Centro Pokémon.\xf000븁\x0000\xfffeNosotross curamos a tus \xfffePokémon cansados.\xf000븁\x0000\xfffe¿Quieres dejar descansar a tus Pokémon?
 Hola, bienvenido\xfffeal Centro Pokémon.\xf000븁\x0000\xfffeNosotros curamos a tus \xfffePokémon cansados.\xf000븁\x0000\xfffe¿Quieres dejar descansar a tus Pokémon?
 Bienvenido al Centro Pokémon.\xf000븁\x0000\xfffe¡Eh! ¿Hoy es tu cumpleaños?
+¡Feliz cumpleaños!\xf000븁\x0000\xfffePor favor sigue visitando el Centro Pokémon\xfffedurante muchos años.\xf000븁\x0000\xfffeAHora, ¿Quiereres dejar descansar a \xfffetus Pokémon?
 ¿No lo es? Oh, debi confundirme.\xf000븁\x0000\xfffe¿Quieres dejar descansar a tus Pokémon?
 Vale, Tomare tus Pokémon por\xfffeunos instantes.
 Gracias por esperar.\xf000븁\x0000\xfffeHemos recuperado la salud de\xfffetus Pokémon.\xf000븁\x0000
@@ -15,13 +16,13 @@ The Trainers in the Union Room\xfffewill be those players around you\xf000븀\x0
 DS Wireless Communications\xfffewill be launched.
 I hope you enjoy your time in\xfffethe Union Room.\xf000븁\x0000
 Please do visit again.
-Enter the Union Room
-Cancel
-Info
-I am sorry...\xfffeYou can't enter the Union Room yet.\xf000븁\x0000
-You have at least one Pokémon\xfffethat can't be taken in.\xf000븁\x0000
-Wait, Trainer!\xf000븁\x0000\xfffeYour title on your Trainer Card\xfffeis still just “Pokémon Trainer," isn't it?\xf000븁\x0000\xfffeIf you change your title, you can easily\xfffeproject your image to others when you\xf000븀\x0000\xfffegreet them in the Union Room.\xf000븁\x0000\xfffeLet's see...\xfffeHow about \xf000Ď\x0001\x0000?\xf000븀\x0000\xfffeWhat do you think?\xf000븁\x0000\xfffeThat is the impression I got from you.\xfffeFirst, let's change your title.\xf000븁\x0000\xfffeIf you don't like the new one, you can\xfffechange it by selecting your Trainer Card.\xf000븁\x0000
-It seems you can't use it yet.
+Entrar a la Sala Union.
+Cancelar
+Informacion
+Lo siento..\xfffeAun no puedes entrar a la Sala Union.\xf000븁\x0000
+Tienes al menos un Pokémon\xfffeque no puedes llevar contigo.\xf000븁\x0000
+¡Espera, entrenador!\xf000븁\x0000\xfffeTu titulo en tu Tarjeta de entrenador\xfffesolo dice “Entrenador Pokémon," ¿cierto?\xf000븁\x0000\xfffeSi cambias tu titulo, puedes facilmente\xfffemostrar tu imagen a otros cuando\xf000븀\x0000\xfffelos conozcas en la Sala Union.\xf000븁\x0000\xfffeDejame ver...\xfffe¿Te gustaria? \xf000Ď\x0001\x0000?\xf000븀\x0000\xfffe¿Que piensas?\xf000븁\x0000\xfffeEsta es mi impresion sobre ti.\xfffePrimero, cambiemos tu titulo.\xf000븁\x0000\xfffeSI no te gusta el nuevo, puedes\xfffecambiarlo seleccionando tu Tarjeta de Entrenador.\xf000븁\x0000
+Parece que no puedes usarlo aun.
 ライブキャスターが　なっている
 \xf000Ā\x0001\x0000は\xfffeライブキャスターを　つなげた\xf000븁\x0000
 おや？\xfffeきみは……\xf000븁\x0000
