@@ -1,9 +1,9 @@
 \xf000ȁ\x0001\x0000 PERS.
 TOTAL: \xf000Ȅ\x0001\x0000 PERS.
 ¿Agradeces a...?
-\xf000Ā\x0001\x0000さんに\xfffeおれいを　しました！
-\xf000Ā\x0001\x0000さんが　はつどうした\xfffe\xf000Đ\x0001\x0001を\xfffeつかいますか？
-とくしゅデルパワー　はつどう！！\xfffe\xf000Đ\x0001\x0001を\xfffeつかいますか？
+¡Le has dado las gracias a \xf000Ā\x0001\x0000!
+¿Quieres usar \xf000đ\x0001\x0001?\xfffeRegalosferas que necesitas: \xf000Ȃ\x0001\x0002.\xfffeRegalosferas que tienes: \xf000Ȃ\x0001\x0003.
+\xf000Ā\x0001\x0000 ha activado\xfffe\xf000đ\x0001\x0001. ¿Quieres usarlo?
 \xf000Đ\x0001\x0001を\xfffeつかいました！
 『\xf000Ĝ\x0001\x0000』と\xfffeはつげんしました！
 フェスミッション\xfffe「\xf000ŀ\x0001\x0001」に\xfffeさんか　しますか？
@@ -14,11 +14,11 @@ TOTAL: \xf000Ȅ\x0001\x0000 PERS.
 \xf000Ȅ\x0001\x0000
 のこりじかん
 \xf000ȁ\x0001\x0000:\xf000ȁ\x0001\x0001
-CHECK
-YES
+VER
+SÍ
 NO
-CHECK
-CLOSE
+VER
+CERRAR
 げんき？
 『\xf000Ā\x0001\x0000』さんが\xfffeちかくに　います
 \xf000Ā\x0001\x0000さんが\xfffeやせいの　\xf000ā\x0001\x0001との\xfffeせんとうを　かいし　しました！
