@@ -20,24 +20,24 @@ NO
 VER
 CERRAR
 げんき？
-『\xf000Ā\x0001\x0000』さんが\xfffeちかくに　います
-\xf000Ā\x0001\x0000さんが\xfffeやせいの　\xf000ā\x0001\x0001との\xfffeせんとうを　かいし　しました！
-\xf000Ā\x0001\x0000さんが\xfffeやせいの　\xf000ā\x0001\x0001との\xfffeせんとうに　しょうり　しました！
-\xf000Ā\x0001\x0000さんが\xfffeとくべつな　ポケモンとの\xfffeせんとうを　かいし　しました！
-\xf000Ā\x0001\x0000さんが\xfffeとくべつな　ポケモンとの\xfffeせんとうに　しょうり　しました！
-\xf000Ā\x0001\x0000さんが\xfffe\xf000Ď\x0001\x0001の　\xf000Ā\x0001\x0002との\xfffeたいせんを　かいし　しました！
-\xf000Ā\x0001\x0000さんが\xfffe\xf000Ď\x0001\x0001の　\xf000Ā\x0001\x0002との\xfffeたいせんに　しょうり　しました！
-\xf000Ā\x0001\x0000さんが\xfffeジムリーダーとの\xfffeたいせんを　かいし　しました！
-\xf000Ā\x0001\x0000さんが\xfffeジムリーダーとの\xfffeたいせんに　しょうり　しました！
-\xf000Ā\x0001\x0000さんが\xfffeとくべつな　トレーナーとの\xfffeたいせんを　かいし　しました！
-\xf000Ā\x0001\x0000さんが\xfffeとくべつな　トレーナーとの\xfffeたいせんに　しょうり　しました！
-\xf000Ā\x0001\x0000さんが\xfffeとくべつな　トレーナーとの\xfffeたいせんを　かいし　しました！
-\xf000Ā\x0001\x0000さんが\xfffeとくべつな　トレーナーとの\xfffeたいせんに　しょうり　しました！
-\xf000Ā\x0001\x0000さんが\xfffeやせいの　\xf000ā\x0001\x0001を\xfffeつかまえました！
-\xf000Ā\x0001\x0000さんが\xfffeとくべつな　ポケモンを\xfffeつかまえました！
-\xf000Ā\x0001\x0000さんの\xfffe\xf000Ă\x0001\x0002の\xfffeレベルが　あがりました！
-\xf000Ā\x0001\x0000さんの\xfffe\xf000Ă\x0001\x0002が　しんかして\xfffe\xf000ā\x0001\x0001に　なりました！
-アクションIDと並びを同一にするための\xfffeダミーメッセージです
+\xf000Ā\x0001\x0000 está cerca.
+¡\xf000Ā\x0001\x0000 ha entablado un combate\xfffecontra un \xf000ā\x0001\x0001 salvaje!
+¡\xf000Ā\x0001\x0000 ha ganado el combate\xfffecontra el \xf000ā\x0001\x0001 salvaje!
+¡\xf000Ā\x0001\x0000 ha entablado un combate\xfffecontra un Pokémon especial!
+¡\xf000Ā\x0001\x0000 ha ganado el combate\xfffecontra el Pokémon especial!
+¡\xf000Ā\x0001\x0000 ha entablado un combate\xfffecontra \xf000Ď\x0001\x0001 \xf000Ā\x0001\x0002!
+¡\xf000Ā\x0001\x0000 ha ganado el combate\xfffecontra \xf000Ď\x0001\x0001 \xf000Ā\x0001\x0002!
+¡\xf000Ā\x0001\x0000 ha entablado un combate\xfffecontra un Líder de Gimnasio!
+¡\xf000Ā\x0001\x0000 ha ganado el combate\xfffecontra un Líder de Gimnasio!
+¡\xf000Ā\x0001\x0000 ha entablado un combate\xfffecontra un Entrenador especial!
+¡\xf000Ā\x0001\x0000 ha ganado el combate\xfffecontra un Entrenador especial!
+¡\xf000Ā\x0001\x0000 ha entablado un combate\xfffecontra un Entrenador especial!
+¡\xf000Ā\x0001\x0000 ha ganado el combate\xfffecontra un Entrenador especial!
+¡\xf000Ā\x0001\x0000 ha capturado\xfffeun \xf000ā\x0001\x0001 salvaje!
+¡\xf000Ā\x0001\x0000 ha capturado\xfffeun Pokémon especial!
+¡El \xf000Ă\x0001\x0002 de \xf000Ā\x0001\x0000\xfffeha subido de nivel!
+¡El \xf000Ă\x0001\x0002 de \xf000Ā\x0001\x0000\xfffeha evolucionado a \xf000ā\x0001\x0001!
+Dummy message to match order\xfffeand Action ID
 \xf000Ā\x0001\x0000さんが\xfffe\xf000ĉ\x0001\x0001を\xfffeみつけました！
 \xf000Ā\x0001\x0000さんの\xfffeプレイじかんが　\xf000Ȃ\x0001\x0001じかんを\xfffeこえました！
 \xf000Ā\x0001\x0000さんの\xfffeポケモンずかんが　かんせい　しました！
@@ -50,10 +50,10 @@ CERRAR
 \xf000Ā\x0001\x0000さんの\xfffe\xf000Ă\x0001\x0002の　こうげきが\xfffeきゅうしょに　あたりました！
 \xf000Ā\x0001\x0000さんの\xfffe\xf000Ă\x0001\x0002が　こうげきを\xfffeきゅうしょに　うけました！
 \xf000Ā\x0001\x0000さんは\xfffeせんとうから　にげだしました！
-\xf000Ā\x0001\x0000さんの\xfffe\xf000Ă\x0001\x0002の　ＨＰが\xfffeのこりすくない　じょうたいです！
-\xf000Ā\x0001\x0000さんの\xfffe\xf000Ă\x0001\x0002の　ＰＰが\xfffeのこりすくない　じょうたいです！
-\xf000Ā\x0001\x0000さんの\xfffe\xf000Ă\x0001\x0002が\xfffeひんしの　じょうたいです！
-\xf000Ā\x0001\x0000さんの\xfffe\xf000Ă\x0001\x0002が\xfffeじょうたいいじょうです！
+¡Al \xf000Ă\x0001\x0002 de \xf000Ā\x0001\x0000 le quedan\xfffemuy pocos PS!
+¡Al \xf000Ă\x0001\x0002 de \xf000Ā\x0001\x0000 le quedan\xfffemuy pocos PP!
+¡El \xf000Ă\x0001\x0002 de \xf000Ā\x0001\x0000\xfffese ha debilitado!
+¡El \xf000Ă\x0001\x0002 de \xf000Ā\x0001\x0000\xfffeha sufrido un cambio de estado!
 \xf000Ā\x0001\x0000さんが\xfffe\xf000ĉ\x0001\x0001を\xfffeつかっています
 \xf000Ā\x0001\x0000さんが\xfffe\xf000ć\x0001\x0001を\xfffeつかっています
 \xf000Ā\x0001\x0000さんは\xfffeタマゴを　うけとりました
